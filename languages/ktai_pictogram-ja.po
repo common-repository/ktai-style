@@ -1,0 +1,3090 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-05-09 13:26+0900\n"
+"Last-Translator: IKEDA Yuriko <yuriko-poedit@yuriko.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:2c,1;_n:1,2;_n_noop:1,2;_c;__ngettext:1,2;__ngettext_noop:1,2\n"
+
+# 12
+# d275
+msgid "[wine glass]"
+msgstr "[ワイングラス]"
+
+# 13
+msgid "[loud speaker]"
+msgstr "[スピーカー]"
+
+# 15
+# 47
+# se04c
+# wf068 三日月の反対向き
+msgid "[moon]"
+msgstr "[月]"
+
+# 16
+msgid "[lightning]"
+msgstr "[稲妻]"
+
+# 25
+# d220
+msgid "[watch]"
+msgstr "[腕時計]"
+
+# 31
+# d245
+msgid "[ban]"
+msgstr "[禁止]"
+
+# 42
+# se237
+# d090
+msgid "[upper-left]"
+msgstr "↖"
+
+# 43
+# se238
+# d089
+msgid "[lower-right]"
+msgstr "↘"
+
+# 44
+# se04a
+# d001
+# wf048
+msgid "[sunny]"
+msgstr "☀"
+
+# 45
+# se016
+# d022
+msgid "[baseball]"
+msgstr "[野球]"
+
+# 46
+# se026
+# d176
+msgid "[clock]"
+msgstr "[時計]"
+
+# 48
+# se325
+# wf065
+msgid "[bell]"
+msgstr "[ベル]"
+
+# 49
+# 137
+msgid "[thumbtack]"
+msgstr "[画鋲]"
+
+# 52
+# d052
+msgid "[martini]"
+msgstr "[マティーニ]"
+
+# 53
+# se110
+msgid "[quatrefoil]"
+msgstr "[四つ葉]"
+
+# 56
+# 103
+msgid "[doc]"
+msgstr "[文書]"
+
+# 57
+# 58
+# d217
+msgid "[sand clock]"
+msgstr "[砂時計]"
+
+# 59
+# 126
+msgid "[floppy disk]"
+msgstr "[フロッピー]"
+
+# 65
+# 67
+# 105
+msgid "[calendar]"
+msgstr "[カレンダー]"
+
+# 70
+# se236
+# d059
+msgid "[upper-right]"
+msgstr "↗"
+
+# 71
+# se239
+# d104
+msgid "[lower-left]"
+msgstr "↙"
+
+# 72
+# se034
+# d216
+msgid "[ring]"
+msgstr "[指輪]"
+
+# 73
+# 132
+# 507
+msgid "&#10003;"
+msgstr "レ"
+
+# 74
+msgid "[poodle]"
+msgstr "[プードル]"
+
+# 77
+# se10f
+msgid "[light bulb]"
+msgstr "[電球]"
+
+# 78
+# se521
+msgid "[bird]"
+msgstr "[鳥]"
+
+# 79
+msgid "[closed folder]"
+msgstr "[閉フォルダ]"
+
+# 83
+msgid "[briefcase]"
+msgstr "[ブリーフケース]"
+
+# 84
+msgid "[opened folder]"
+msgstr "[開フォルダ]"
+
+# 85
+# se009
+# d074
+# wf042
+msgid "[telephone]"
+msgstr "☎"
+
+# 86
+msgid "[comment]"
+msgstr "[コメント]"
+
+# 87
+msgid "[credit card]"
+msgstr "[クレジットカード]"
+
+# 90
+# se50c
+msgid "[USA]"
+msgstr "[アメリカ]"
+
+# 91
+# 121
+# wf060
+msgid "[notebook]"
+msgstr "[ノート]"
+
+# 92
+msgid "[clipboard]"
+msgstr "[クリップボード]"
+
+# 93
+msgid "[cup]"
+msgstr "[カップ]"
+
+# 94
+# se008
+# d068
+msgid "[camera]"
+msgstr "[カメラ]"
+
+# 95
+# se04b
+# d003
+# wf049
+msgid "[rain]"
+msgstr "☂"
+
+# 96
+msgid "[football]"
+msgstr "[フットボール]"
+
+# 97
+# 100
+# 101
+# 102
+# 147
+# se148
+# d070
+msgid "[book]"
+msgstr "[本]"
+
+# 98
+msgid "[keep out]"
+msgstr "[立ち入り禁止]"
+
+# 99
+# se14e
+# d048
+msgid "[signal]"
+msgstr "[信号]"
+
+# 104
+# se313
+# d056
+# wf083
+msgid "[scissors]"
+msgstr "[鋏]"
+
+# 106
+# se125
+# d065
+# wf097
+msgid "[ticket]"
+msgstr "[チケット]"
+
+# 107
+# se049
+# d002
+# wf04a
+msgid "[cloud]"
+msgstr "☁"
+
+# 108
+# 151
+msgid "[envelope]"
+msgstr "[封筒]"
+
+# 109
+msgid "[&yen]"
+msgstr "[￥]"
+
+# 110
+msgid "[video camera]"
+msgstr "[ビデオカメラ]"
+
+# 111
+msgid "[handy camera]"
+msgstr "[ハンディカム]"
+
+# 112
+# se036
+# d038
+# wf053
+msgid "[home]"
+msgstr "[家]"
+
+# 113
+# se304
+# d256
+# wf059
+msgid "[tulip]"
+msgstr "[チューリップ]"
+
+# 114
+msgid "[knife]"
+msgstr "[ナイフ]"
+
+# 115
+msgid "[video tape]"
+msgstr "[ビデオテープ]"
+
+# 116
+# d093
+msgid "[glasses]"
+msgstr "[眼鏡]"
+
+# 119
+# 510
+# se114
+# d119
+msgid "[magnifier]"
+msgstr "[虫眼鏡]"
+
+# 120
+# se03f
+msgid "[key]"
+msgstr "[鍵]"
+
+# 122
+msgid "[opened notebook]"
+msgstr "[開ノート]"
+
+# 123
+msgid "[bolt and nut]"
+msgstr "[ボルトとナット]"
+
+# 124
+# se13e
+msgid "[high heels]"
+msgstr "[ハイヒール]"
+
+# 125
+# se01b
+# d033
+# wf04f
+msgid "[car]"
+msgstr "[車]"
+
+# 127
+msgid "[bar chart]"
+msgstr "[棒グラフ]"
+
+# 128
+# 159
+msgid "[line chart]"
+msgstr "[折れ線グラフ]"
+
+# 129
+msgid "[mailbox]"
+msgstr "[メールボックス]"
+
+# 130
+msgid "[flashlight]"
+msgstr "[懐中電灯]"
+
+# 131
+msgid "[Roldex]"
+msgstr "[Roldex]"
+
+# 133
+# se118
+# d260
+msgid "[maple leaf]"
+msgstr "[紅葉]"
+
+# 134
+msgid "[hound dog]"
+msgstr "[猟犬]"
+
+# 135
+msgid "[battery]"
+msgstr "[電池]"
+
+# 136
+msgid "[scroll]"
+msgstr "[スクロール]"
+
+# 138
+msgid "[lock]"
+msgstr "[錠前]"
+
+# 139
+msgid "[green paper]"
+msgstr "[ドル札]"
+
+# 140 指差し確認左
+msgid "&larr;"
+msgstr "←"
+
+# 141 指差し確認右
+msgid "&rarr;"
+msgstr "→"
+
+# 142
+msgid "[ledger]"
+msgstr "[台帳]"
+
+# 143
+# d237
+# wf08c
+msgid "[clip]"
+msgstr "[クリップ]"
+
+# 144
+# se112
+# d072
+# wf090
+msgid "[present]"
+msgstr "[プレゼント]"
+
+# 145
+msgid "[nameplate]"
+msgstr "[名札]"
+
+# 146
+# se043
+# d050
+msgid "[restaurant]"
+msgstr "[レストラン]"
+
+# 148
+# se42f
+msgid "[truck]"
+msgstr "[トラック]"
+
+# 149
+# d214
+msgid "[pencil]"
+msgstr "[鉛筆]"
+
+# 150
+msgid "[IDO]"
+msgstr "[IDO社]"
+
+# 152
+# d213
+msgid "[wrench]"
+msgstr "[レンチ]"
+
+# 153
+msgid "[Send BOX]"
+msgstr "[送信 BOX]"
+
+# 154
+msgid "[In BOX]"
+msgstr "[受信 BOX]"
+
+# 155
+msgid "[telephone receive]"
+msgstr "[受話器]"
+
+# 156
+# se038
+# d039
+# wf054
+msgid "[building]"
+msgstr "[ビル]"
+
+# 160
+# wf06c
+msgid "[meat]"
+msgstr "[肉]"
+
+# 161
+# se00a
+# d075
+msgid "[mobile phone]"
+msgstr "[携帯電話]"
+
+# 162
+msgid "[outlet]"
+msgstr "[コンセント]"
+
+# 163
+msgid "[family]"
+msgstr "[家族]"
+
+# 164
+msgid "[link]"
+msgstr "[リンク]"
+
+# 165
+msgid "[package]"
+msgstr "[パッケージ]"
+
+# 166
+# se00b
+# d107
+msgid "[FAX]"
+msgstr "[FAX]"
+
+# 167
+msgid "[occasionally cloudy]"
+msgstr "[ときどき曇り]"
+
+# 168
+# se01d
+# d037
+# wf051
+msgid "[airplane]"
+msgstr "[飛行機]"
+
+# 169
+msgid "[boat]"
+msgstr "[ボート]"
+
+# 170
+msgid "[dice]"
+msgstr "[サイコロ]"
+
+# 171
+# e262
+msgid "[newspaper]"
+msgstr "[新聞]"
+
+# 172
+# se01e
+# d030
+# wf050
+msgid "[train]"
+msgstr "[電車]"
+
+# 176
+# se30e
+# d066
+msgid "[smoking]"
+msgstr "[喫煙]"
+
+# 177
+# se208
+# d067
+# wf064
+msgid "[no smoking]"
+msgstr "[禁煙]"
+
+# 178
+# se20a
+# d094
+msgid "[wheel chair]"
+msgstr "[車椅子]"
+
+# 179
+# se209
+# e255
+# wf0b1
+msgid "[beginner]"
+msgstr "[初心者]"
+
+# 190
+# se443
+# d006
+# wf0a8
+msgid "[typhoon]"
+msgstr "[台風]"
+
+# 191
+# se048
+# d004
+# wf08d
+msgid "[snow]"
+msgstr "☃"
+
+# 192
+# se23f
+# d009
+# wf0c8
+msgid "[Aries]"
+msgstr "[牡羊座]"
+
+# 193
+# se240
+# d010
+# wf0c9
+msgid "[Taurus]"
+msgstr "[牡牛座]"
+
+# 194
+# se241
+# d011
+# wf0ca
+msgid "[Gemini]"
+msgstr "[双子座]"
+
+# 195
+# se242
+# d012
+# wf0cb
+msgid "[Cancer]"
+msgstr "[蟹座]"
+
+# 196
+# se243
+# d013
+# wf0cc
+msgid "[Leo]"
+msgstr "[獅子座]"
+
+# 197
+# se244
+# d014
+# wf0cd
+msgid "[Virgo]"
+msgstr "[乙女座]"
+
+# 198
+# se245
+# d015
+# wf0ce
+msgid "[Libra]"
+msgstr "[天秤座]"
+
+# 199
+# se246
+# d016
+# wf0cf
+msgid "[Scorpius]"
+msgstr "[蠍座]"
+
+# 200
+# se247
+# d017
+# wf0d1
+msgid "[Sagittarius]"
+msgstr "[射手座]"
+
+# 201
+# se248
+# d018
+# wf0d2
+msgid "[Capricornus]"
+msgstr "[山羊座]"
+
+# 202
+# se249
+# d019
+# wf0d3
+msgid "[Aquarius]"
+msgstr "[水瓶座]"
+
+# 203
+# se24a
+# d020
+# wf0d4
+msgid "[Pisces]"
+msgstr "[魚座]"
+
+# 204
+# se24b
+# wf0d0
+msgid "[Ophiuchus]"
+msgstr "[蛇遣座]"
+
+# 205
+# se154
+msgid "[ATM]"
+msgstr "[ATM]"
+
+# 206
+# se156
+# d045
+msgid "[CVS]"
+msgstr "[コンビニ]"
+
+# 207
+# se140
+# se309
+# d049
+msgid "[toilet]"
+msgstr "[トイレ]"
+
+# 208
+# se14f
+# d047
+msgid "[parking]"
+msgstr "[駐車場]"
+
+# 209
+# se150
+msgid "[bus stop]"
+msgstr "[バス停]"
+
+# 210
+# d121
+msgid "[location info]"
+msgstr "[位置情報]"
+
+# 211
+# wf085
+msgid "[anchor]"
+msgstr "[錨]"
+
+# 212
+# se14d
+# d042
+msgid "[bank]"
+msgstr "[銀行]"
+
+# 213
+# se03a
+# d046
+msgid "[gas station]"
+msgstr "[ガソリンスタンド]"
+
+# 214
+msgid "[map]"
+msgstr "[地図]"
+
+# 215
+# d218
+msgid "[bicycle]"
+msgstr "[自転車]"
+
+# 216
+# se159
+# d035
+# wf0af
+msgid "[bus]"
+msgstr "[バス]"
+
+# 217
+# se01f
+# se435
+# d032
+msgid "[bullet train]"
+msgstr "[新幹線]"
+
+# 218
+msgid "[marathon]"
+msgstr "[マラソン]"
+
+# 219
+# se018
+# d025
+# wf0b0
+msgid "[soccer]"
+msgstr "[サッカー]"
+
+# 220
+# se015
+# d024
+# wf09c
+msgid "[tennis]"
+msgstr "[テニス]"
+
+# 221
+msgid "[snowboard]"
+msgstr "[スノーボード]"
+
+# 222
+# se132
+# d028
+msgid "[checker flag]"
+msgstr "[チェッカーフラッグ]"
+
+# 223
+# se124
+msgid "[amusement park]"
+msgstr "[遊園地]"
+
+# 224
+# se123
+# d147
+# wf067
+msgid "[hot spring]"
+msgstr "♨"
+
+# 225
+msgid "[red lantern]"
+msgstr "[赤ちょうちん]"
+
+# 226
+# se03d
+# d058
+# wf09d
+msgid "[movie]"
+msgstr "[映画]"
+
+# 227
+msgid "[night bridge]"
+msgstr "[夜の橋]"
+
+# 228
+# se509
+msgid "[Tokyo tower]"
+msgstr "[東京タワー]"
+
+# 229
+# wf0bd
+msgid "[777]"
+msgstr "[777]"
+
+# 230
+msgid "[decorative banner]"
+msgstr "[くす玉]"
+
+# 232
+# se12b
+# d078
+msgid "[game]"
+msgstr "[ゲーム]"
+
+# 234
+msgid "[Christmas tree]"
+msgstr "[クリスマスツリー]"
+
+# 235
+# se030
+msgid "[cherry blossom viewing]"
+msgstr "[花見]"
+
+# 236
+# se11b
+msgid "[ghost]"
+msgstr "[お化け]"
+
+# 237
+# se50b
+msgid "[Japan]"
+msgstr "[日本]"
+
+# 238
+# se348
+msgid "[watermelon]"
+msgstr "[西瓜]"
+
+# 239
+# se046
+msgid "[cake]"
+msgstr "[ケーキ]"
+
+# 240
+msgid "[frying pan]"
+msgstr "[フライパン]"
+
+# 241
+# d255
+msgid "[cherry]"
+msgstr "[さくらんぼ]"
+
+# 242
+msgid "[blowfish]"
+msgstr "[河豚]"
+
+# 243
+# se347
+msgid "[strawberry]"
+msgstr "[苺]"
+
+# 244
+# se342
+# d262
+# wf07a
+msgid "[rice ball]"
+msgstr "[おにぎり]"
+
+# 245
+# se120
+# d054
+msgid "[hamburger]"
+msgstr "[ハンバーガー]"
+
+# 246
+# se054
+msgid "[whale]"
+msgstr "[鯨]"
+
+# 247
+# se52c
+msgid "[rabbit]"
+msgstr "[兎]"
+
+# 248
+# se01a
+# d273
+msgid "[horse]"
+msgstr "[馬]"
+
+# 249
+# se109
+# wf06f
+msgid "[monkey]"
+msgstr "[猿]"
+
+# 250
+# se531
+# wf086
+msgid "[frog]"
+msgstr "[蛙]"
+
+# 251
+# se04f
+# d101
+# wf06e
+msgid "[cat]"
+msgstr "[猫]"
+
+# 252
+# se055
+# d269
+msgid "[penguin]"
+msgstr "[ペンギン]"
+
+# 253
+msgid "[ant]"
+msgstr "[蟻]"
+
+# 254
+# se10b
+# d274
+msgid "[pig]"
+msgstr "[豚]"
+
+# 255
+# se307
+msgid "[palm tree]"
+msgstr "[椰子の木]"
+
+# 256
+# se305
+msgid "[sunflower]"
+msgstr "[向日葵]"
+
+# 262
+# se334
+# d152
+# wf074
+msgid "[miffed]"
+msgstr "[ムカッ]"
+
+# 263
+msgid "[drip]"
+msgstr "[雫]"
+
+# 265
+# se023
+# d138
+# wf088
+msgid "[break heart]"
+msgstr "[失恋]"
+
+# 269
+msgid "[flame]"
+msgstr "[炎]"
+
+# 270
+msgid "[SOS]"
+msgstr "[SOS]"
+
+# 271
+# se14c
+# wf0a5
+msgid "[biceps]"
+msgstr "[力こぶ]"
+
+# 273
+# se003
+# d149
+msgid "[hickey]"
+msgstr "[キスマーク]"
+
+# 274
+# se10c
+msgid "[space alien]"
+msgstr "[宇宙人]"
+
+# 275
+msgid "[Naruto]"
+msgstr "[なると]"
+
+# 276
+# 728
+# se536
+# se536
+# d091
+# wf09a
+msgid "[footmark]"
+msgstr "[足跡]"
+
+# 277
+# se11a
+msgid "[devil]"
+msgstr "[悪魔]"
+
+# 278
+msgid "[flower circle]"
+msgstr "[花丸]"
+
+# 279
+# se315
+# d241
+msgid "[secret]"
+msgstr "[秘]"
+
+# 280
+msgid "[perfect score]"
+msgstr "[100点満点]"
+
+# 281
+# se00d
+# d153
+# wf05c
+msgid "[punch]"
+msgstr "[パンチ]"
+
+# 282 dash
+msgid "=3"
+msgstr "=3"
+
+# 283
+# se05a
+# wf07c
+msgid "[plop]"
+msgstr "[ウンチ]"
+
+# 284
+msgid "&uarr;"
+msgstr "↑"
+
+# 285
+msgid "(save)"
+msgstr "(得)"
+
+# 286
+# se11c
+# wf062
+msgid "[scull]"
+msgstr "[ドクロ]"
+
+# 287
+msgid "[thumb sign]"
+msgstr "[親指サイン]"
+
+# 288
+# se12a
+msgid "[tv set]"
+msgstr "[テレビ]"
+
+# 289
+# se03c
+# d057
+# wf073
+msgid "[microphone]"
+msgstr "[マイク]"
+
+# 290
+msgid "[wallet]"
+msgstr "[財布]"
+
+# 292
+# se041
+# e256
+msgid "[guitar]"
+msgstr "[ギター]"
+
+# 293
+msgid "[violin]"
+msgstr "[バイオリン]"
+
+# 294
+# se30a
+# d061
+msgid "[headphone]"
+msgstr "[ヘッドフォン]"
+
+# 295
+# se31c
+msgid "[rouge]"
+msgstr "[口紅]"
+
+# 296
+# se113
+msgid "[pistol]"
+msgstr "[ピストル]"
+
+# 297
+# se31e
+msgid "[beauty-treatment]"
+msgstr "[エステ]"
+
+# 298
+msgid "[EZ]"
+msgstr "[EZ]"
+
+# 299
+# d122
+msgid "[FREE]"
+msgstr "[FREE]"
+
+# 301
+msgid "[women's wear]"
+msgstr "[婦人服]"
+
+# 302
+msgid "[UFO]"
+msgstr "[UFO]"
+
+# 303
+msgid "[updated!]"
+msgstr "[更新!]"
+
+# 304
+msgid "[injection]"
+msgstr "[注射]"
+
+# 305
+# d007
+msgid "[fog]"
+msgstr "[霧]"
+
+# 306
+# se014
+# d023
+msgid "[golf]"
+msgstr "[ゴルフ]"
+
+# 307
+# se42a
+# d027
+msgid "[basketball]"
+msgstr "[バスケットボール]"
+
+# 308
+# d029
+msgid "[pager]"
+msgstr "[ページャー]"
+
+# 309
+# se502
+# d062
+msgid "[art]"
+msgstr "[アート]"
+
+# 310
+# se503
+# d063
+msgid "[play]"
+msgstr "[演劇]"
+
+# 311
+# d064
+msgid "[event]"
+msgstr "[イベント]"
+
+# 312
+# se314
+# d071
+msgid "[ribbon]"
+msgstr "[リボン]"
+
+# 313
+# d073
+msgid "[birthday]"
+msgstr "[バースデー]"
+
+# 317
+# se419
+# d084
+msgid "[eye]"
+msgstr "[目]"
+
+# 318
+# se41b
+# d085
+msgid "[ear]"
+msgstr "[耳]"
+
+# 319
+# se011
+# d087
+msgctxt "gesture game"
+msgid "[scissors]"
+msgstr "[チョキ]"
+
+# 320
+# se012
+# d088
+msgctxt "gesture game"
+msgid "[paper]"
+msgstr "[パー]"
+
+# 322
+# d096
+msgid "[lunar eclipse]"
+msgstr "[やや欠け月]"
+
+# 323
+# d097
+msgid "[half moon]"
+msgstr "[半月]"
+
+# 324
+msgid "[clear]"
+msgstr "[クリア]"
+
+# 326
+# se24d
+# se420
+# d228
+msgid "[OK]"
+msgstr "[OK]"
+
+# 331
+msgid "[ezplus]"
+msgstr "[ezplus]"
+
+# 332
+msgid "[earth]"
+msgstr "[地球]"
+
+# 333
+# se340
+# wf072
+msgid "[ramen]"
+msgstr "[ラーメン]"
+
+# 334
+# d120
+msgid "[NEW]"
+msgstr "[NEW]"
+
+# 335
+# wf07e
+msgid "[shirt]"
+msgstr "[シャツ]"
+
+# 336
+# d092
+msgid "[shoe]"
+msgstr "[靴]"
+
+# 337
+# se00c
+# d211
+msgid "[personal computer]"
+msgstr "[パソコン]"
+
+# 338
+# se128
+msgid "[radio]"
+msgstr "[ラジオ]"
+
+# 339
+# se032
+msgid "[rose]"
+msgstr "[薔薇]"
+
+# 340
+# d208
+msgid "[chapel]"
+msgstr "[チャペル]"
+
+# 341
+# se434
+# d031
+msgid "[subway]"
+msgstr "[地下鉄]"
+
+# 342
+# d253
+# wf0ac
+msgid "[Mt. Fuji]"
+msgstr "[富士山]"
+
+# 344
+# se04e
+msgid "[angel]"
+msgstr "[天使]"
+
+# 345
+# se050
+msgid "[tiger]"
+msgstr "[虎]"
+
+# 346
+# se051
+msgid "[bear]"
+msgstr "[熊]"
+
+# 347
+# se053
+msgid "[mouse]"
+msgstr "[鼠]"
+
+# 352
+# se10a
+# wf071
+msgid "[octopus]"
+msgstr "[蛸]"
+
+# 353
+# se10d
+msgid "[rocket]"
+msgstr "[ロケット]"
+
+# 354
+# se10e
+# d215
+msgid "[crown]"
+msgstr "[王冠]"
+
+# 355
+msgid "[kissing]"
+msgstr "[チュー]"
+
+# 356
+msgid "[hammer]"
+msgstr "[ハンマー]"
+
+# 357
+# se117
+msgid "[fireworks]"
+msgstr "[花火]"
+
+# 358
+msgid "[autumn leaves]"
+msgstr "[枯れ葉]"
+
+# 359
+msgid "[suitcase]"
+msgstr "[仕事かばん]"
+
+# 360
+msgid "[fountain]"
+msgstr "[噴水]"
+
+# 361
+# se122
+# wf0ad
+msgid "[camp]"
+msgstr "[キャンプ]"
+
+# 362
+# se12d
+# e259
+msgid "[mahjong]"
+msgstr "[麻雀]"
+
+# 363
+# se12e
+msgid "[VS]"
+msgstr "[VS]"
+
+# 364
+# se131
+msgid "[trophy]"
+msgstr "[トロフィー]"
+
+# 365
+msgid "[turtle]"
+msgstr "[亀]"
+
+# 366
+# se511
+msgid "[Spain]"
+msgstr "[スペイン]"
+
+# 367
+msgid "[Rossiya]"
+msgstr "[ロシア]"
+
+# 368
+# se137
+msgid "[under construction]"
+msgstr "[工事中]"
+
+# 369
+msgid "[bath]"
+msgstr "[風呂]"
+
+# 370
+# 402
+# se30d
+msgid "[congratulations]"
+msgstr "[祝]"
+
+# 371
+msgid "[evening]"
+msgstr "[夕方]"
+
+# 372
+# se147
+msgid "[egg]"
+msgstr "[卵]"
+
+# 373
+# se14a
+# e257
+msgid "[stock prices]"
+msgstr "[株価]"
+
+# 374
+msgid "[police officer]"
+msgstr "[警察官]"
+
+# 375
+# se153
+msgid "[post office]"
+msgstr "〒"
+
+# 376
+# se155
+# d041
+msgid "[hospital]"
+msgstr "[病院]"
+
+# 377
+# se157
+# d251
+msgid "[school]"
+msgstr "[学校]"
+
+# 378
+# se158
+# d044
+msgid "[hotel]"
+msgstr "[ホテル]"
+
+# 379
+# se202
+# d036
+msgid "[ship]"
+msgstr "[船]"
+
+# 380
+# se207
+# wf0b5
+msgid "[R18]"
+msgstr "[18禁]"
+
+# 381
+msgid "[.i|]"
+msgstr "[.i|]"
+
+# 382
+msgid "[COOL!]"
+msgstr "[COOL!]"
+
+# 383
+# se227
+msgid "[discount]"
+msgstr "[割]"
+
+# 384
+# se228
+msgid "[service fee]"
+msgstr "[サ]"
+
+# 385
+# se229
+# d115
+msgid "[ID]"
+msgstr "[ID]"
+
+# 386
+# se22a
+# d248
+msgid "[occupied]"
+msgstr "[満席]"
+
+# 387
+# se22b
+# d246
+msgid "[vacant]"
+msgstr "[空席]"
+
+# 388
+# se22c
+msgid "[reserved]"
+msgstr "[指]"
+
+# 389
+# se22d
+msgid "[business hours]"
+msgstr "[営]"
+
+# 392
+msgid "[fortune]"
+msgstr "[占い]"
+
+# 393
+# se250
+msgid "[silent mode]"
+msgstr "[マナーモード]"
+
+# 394
+# se251
+msgid "[turn off]"
+msgstr "[電源OFF]"
+
+# 395
+# se301
+# d076
+msgid "[memo]"
+msgstr "[メモ]"
+
+# 396
+# se302
+# wf07d
+msgid "[tie]"
+msgstr "[ネクタイ]"
+
+# 397
+# se303
+msgid "[hibiscus]"
+msgstr "[ハイビスカス]"
+
+# 398
+# se306
+msgid "[bouquet]"
+msgstr "[花束]"
+
+# 399
+# se308
+msgid "[cactus]"
+msgstr "[サボテン]"
+
+# 400
+msgid "[sake bottle]"
+msgstr "[お銚子]"
+
+# 401
+# se047
+# se30c
+# d053
+# wf05f
+msgid "[beer]"
+msgstr "[ビール]"
+
+# 403
+# se30f
+msgid "[pill]"
+msgstr "[薬]"
+
+# 404
+# se310
+msgid "[balloon]"
+msgstr "[風船]"
+
+# 405
+# se312
+msgid "[cracker]"
+msgstr "[クラッカー]"
+
+# 406
+msgid "[eznavi]"
+msgstr "[eznavi]"
+
+# 407
+# se318
+msgid "[hat]"
+msgstr "[帽子]"
+
+# 408
+# se31b
+msgid "[long boots]"
+msgstr "[ロングブーツ]"
+
+# 409
+msgid "[nail]"
+msgstr "[ネイル]"
+
+# 410
+# se31f
+msgid "[beauty salon]"
+msgstr "[美容院]"
+
+# 411
+# se320
+msgid "[barbershop]"
+msgstr "[理髪店]"
+
+# 412
+# se321
+msgid "[kimono]"
+msgstr "[着物]"
+
+# 413
+# se322
+# wf082
+msgid "[bikini]"
+msgstr "[ビキニ]"
+
+# 421
+# se013
+# d026
+# wf09e
+msgid "[ski]"
+msgstr "[スキー]"
+
+# 423
+msgid "[green tea]"
+msgstr "[日本茶]"
+
+# 424
+# se339
+# d266
+msgid "[bread]"
+msgstr "[食パン]"
+
+# 425
+# se33a
+msgid "[soft ice cream]"
+msgstr "[ソフトクリーム]"
+
+# 426
+# se33b
+msgid "[French fries]"
+msgstr "[フライドポテト]"
+
+# 427
+# se33c
+msgid "[dumpling]"
+msgstr "[串団子]"
+
+# 428
+# se33d
+msgid "[rice cracker]"
+msgstr "[煎餅]"
+
+# 429
+# se33e
+msgid "[rice]"
+msgstr "[御飯]"
+
+# 430
+# se33f
+msgid "[spaghetti]"
+msgstr "[スパゲティ]"
+
+# 431
+# se341
+msgid "[curry with rice]"
+msgstr "[カレーライス]"
+
+# 432
+# se343
+msgid "[oden]"
+msgstr "[おでん]"
+
+# 433
+# se344
+msgid "[sushi]"
+msgstr "[寿司]"
+
+# 434
+# se345
+# d258
+# wf08f
+msgid "[apple]"
+msgstr "[林檎]"
+
+# 435
+# se346
+msgid "[orange]"
+msgstr "[蜜柑]"
+
+# 436
+# se349
+msgid "[tomato]"
+msgstr "[トマト]"
+
+# 437
+# se34a
+msgid "[eggplant]"
+msgstr "[茄子]"
+
+# 438
+msgid "[box lunch]"
+msgstr "[弁当]"
+
+# 439
+# se34d
+msgid "[pan]"
+msgstr "[鍋]"
+
+# 457
+# se41a
+msgid "[nose]"
+msgstr "[鼻]"
+
+# 458
+# se41c
+# wf04d
+msgid "[mouth]"
+msgstr "[口]"
+
+# 459
+# se41d
+msgid "[sorry]"
+msgstr "[ゴメン]"
+
+# 460
+# se41f
+msgid "[clap]"
+msgstr "[拍手]"
+
+# 461 指で丸サイン
+# 465
+msgid "[OK!]"
+msgstr "[OK!]"
+
+# 462 親指を下
+# se421
+msgid "[boo!]"
+msgstr "[ブーイング]"
+
+# 463
+# se41e
+msgid "[bye]"
+msgstr "[バイバイ]"
+
+# 464
+# d236
+msgid "[No Good]"
+msgstr "[NG]"
+
+# 467
+# e254
+msgid "[couple]"
+msgstr "[カップル]"
+
+# 468
+# se429
+msgid "[bunny]"
+msgstr "[バニー]"
+
+# 469
+# se042
+msgid "[trumpet]"
+msgstr "[トランペット]"
+
+# 470
+# se42c
+msgid "[billiards]"
+msgstr "[ビリヤード]"
+
+# 471
+# se42d
+msgid "[swimming]"
+msgstr "[水泳]"
+
+# 472
+# se430
+msgid "[fire engine]"
+msgstr "[消防車]"
+
+# 473
+# se431
+msgid "[ambulance]"
+msgstr "[救急車]"
+
+# 474
+# se432
+msgid "[police car]"
+msgstr "[パトカー]"
+
+# 475
+# se433
+msgid "[roller coaster]"
+msgstr "[ローラーコースター]"
+
+# 476
+# se436
+msgid "[pine branches]"
+msgstr "[門松]"
+
+# 477
+# se438
+msgid "[Girls' Festival]"
+msgstr "[雛祭り]"
+
+# 478
+# se439
+msgid "[graduation ceremony]"
+msgstr "[卒業式]"
+
+# 479
+msgid "[entrance ceremony]"
+msgstr "[入学式]"
+
+# 480
+# se43b
+msgid "[carp streamer]"
+msgstr "[鯉幟]"
+
+# 481
+# se43c
+msgid "[umbrella]"
+msgstr "[傘]"
+
+# 482
+msgid "[bride]"
+msgstr "[花嫁]"
+
+# 483
+# se43f
+# wf081
+msgid "[shaved ice]"
+msgstr "[かき氷]"
+
+# 484
+# se440
+msgid "[sparkler]"
+msgstr "[線香花火]"
+
+# 485
+# se441
+msgid "[conch]"
+msgstr "[巻き貝]"
+
+# 486
+# se442
+msgid "[wind-bell]"
+msgstr "[風鈴]"
+
+# 487
+# se445
+msgid "[Halloween]"
+msgstr "[ハロウィン]"
+
+# 488
+# se446
+msgid "[moon-viewing]"
+msgstr "[お月見]"
+
+# 489
+# se448
+# e263
+msgid "[Santa Claus]"
+msgstr "[サンタクロース]"
+
+# 490
+# d172
+msgid "[night]"
+msgstr "[夜]"
+
+# 491
+# se44c
+msgid "[rainbow]"
+msgstr "[虹]"
+
+# 492
+# se501
+msgid "[love hotel]"
+msgstr "[ラブホテル]"
+
+# 493
+msgid "[sunrise]"
+msgstr "[日の出]"
+
+# 494
+msgid "[silk hat]"
+msgstr "[シルクハット]"
+
+# 495
+# se504
+msgid "[department store]"
+msgstr "[デパート]"
+
+# 496c
+# se505
+msgid "[castle tower]"
+msgstr "[天守閣]"
+
+# 497
+# se506
+msgid "[castle]"
+msgstr "[城]"
+
+# 498
+# se508
+msgid "[factory]"
+msgstr "[工場]"
+
+# 499
+# se50d
+msgid "[France]"
+msgstr "[フランス]"
+
+# 500
+msgid "[Openwave]"
+msgstr "[オープンウェーブ]"
+
+# 501
+msgid "[locked fast]"
+msgstr "[ロック確認]"
+
+# 502 大文字
+msgctxt "uppercase"
+msgid "[ABC]"
+msgstr "[ABC]"
+
+# 503 小文字
+msgctxt "lowercase"
+msgid "[abc]"
+msgstr "[abc]"
+
+# 504 数字
+msgctxt "numbers"
+msgid "[012]"
+msgstr "[012]"
+
+# 505 記号
+msgctxt "punctuation"
+msgid "[,@#]"
+msgstr "[,@#]"
+
+# 506
+msgid "[enabled]"
+msgstr "[可]"
+
+# 508
+msgid "[edit]"
+msgstr "[エディット]"
+
+# 512
+msgid "[favorites]"
+msgstr "[お気に入り]"
+
+# 513
+msgid "[termination]"
+msgstr "[終了]"
+
+# 514
+msgid "[Home]"
+msgstr "[ホーム]"
+
+# 515
+msgid "[Inbox]"
+msgstr "[受信箱]"
+
+# 517
+msgid "[Private]"
+msgstr "[個人用]"
+
+# 518
+msgid "[Reload]"
+msgstr "[再読み込み]"
+
+# 700
+# se50e
+msgid "[Germany]"
+msgstr "[ドイツ]"
+
+# 701
+# se50f
+msgid "[Italy]"
+msgstr "[イタリア]"
+
+# 702
+# se510
+msgid "[Britain]"
+msgstr "[イギリス]"
+
+# 703
+# se513
+msgid "[China]"
+msgstr "[中国]"
+
+# 704
+# se514
+msgid "[Korea]"
+msgstr "[韓国]"
+
+# 705
+# se515
+msgid "[White people]"
+msgstr "[白人]"
+
+# 706
+# se516
+msgid "[Chinese people]"
+msgstr "[中国人]"
+
+# 707
+# se517
+msgid "[Indian]"
+msgstr "[インド人]"
+
+# 708
+# se518
+msgid "[grand father]"
+msgstr "[おじいさん]"
+
+# 709
+# se519
+msgid "[grand mother]"
+msgstr "[おばあさん]"
+
+# 710
+# se51a
+msgid "[baby]"
+msgstr "[赤ちゃん]"
+
+# 711
+msgid "[construction worker]"
+msgstr "[工事現場の人]"
+
+# 712
+# se51c
+msgid "[princess]"
+msgstr "[お姫様]"
+
+# 713
+# se520
+msgid "[dolphin]"
+msgstr "[イルカ]"
+
+# 714
+msgid "[dance]"
+msgstr "[ダンス]"
+
+# 715
+# se522
+msgid "[tropical fish]"
+msgstr "[熱帯魚]"
+
+# 716
+# se525
+msgid "[hairy caterpillar]"
+msgstr "[毛虫]"
+
+# 717
+# se526
+# wf070
+msgid "[elephant]"
+msgstr "[象]"
+
+# 718
+# se527
+msgid "[koala]"
+msgstr "[コアラ]"
+
+# 719
+# se52b
+msgid "[cow]"
+msgstr "[牛]"
+
+# 720
+# se52d
+msgid "[snake]"
+msgstr "[蛇]"
+
+# 721
+# se52e
+msgid "[chicken]"
+msgstr "[鶏]"
+
+# 722
+# se52f
+msgid "[wild boar]"
+msgstr "[猪]"
+
+# 723
+# se530
+msgid "[camel]"
+msgstr "[ラクダ]"
+
+# 724
+# se532
+msgid "[Blood type A]"
+msgstr "[A型]"
+
+# 725
+# se533
+msgid "[Blood type B]"
+msgstr "[B型]"
+
+# 726
+# se535
+msgid "[Blood type O]"
+msgstr "[O型]"
+
+# 727
+# se534
+msgid "[Bood type AB]"
+msgstr "[AB型]"
+
+# 729
+msgid "[sneakers]"
+msgstr "[スニーカー]"
+
+# 730
+# wf069
+msgid "[flag]"
+msgstr "[旗]"
+
+# 736
+# wf080
+msgid "[melon]"
+msgstr "[メロン]"
+
+# 737
+msgid "[pineapple]"
+msgstr "[パイナップル]"
+
+# 738
+msgid "[grape]"
+msgstr "[葡萄]"
+
+# 739
+# d257
+msgid "[banana]"
+msgstr "[バナナ]"
+
+# 740
+msgid "[corn]"
+msgstr "[とうもろこし]"
+
+# 741
+msgid "[mushroom]"
+msgstr "[キノコ]"
+
+# 742
+msgid "[chestnut]"
+msgstr "[栗]"
+
+# 743
+# wf0e0
+msgid "[peach]"
+msgstr "[桃]"
+
+# 744
+msgid "[sweet potato]"
+msgstr "[焼き芋]"
+
+# 745
+msgid "[pizza]"
+msgstr "[ピザ]"
+
+# 746
+msgid "[turkey]"
+msgstr "[ターキー]"
+
+# 747
+msgid "[Star Festival]"
+msgstr "[七夕笹飾り]"
+
+# 748
+msgid "[tropical drink]"
+msgstr "[トロピカルドリンク]"
+
+# 749
+msgid "[dragon]"
+msgstr "[辰]"
+
+# 750
+msgid "[piano]"
+msgstr "[ピアノ]"
+
+# 751
+# se017
+# wf0aa
+msgid "[surfing]"
+msgstr "[サーフィン]"
+
+# 752
+msgid "[fishing]"
+msgstr "[釣り]"
+
+# 753
+msgid "[bowling]"
+msgstr "[ボウリング]"
+
+# 754
+msgid "[Namahage]"
+msgstr "[なまはげ]"
+
+# 755
+msgid "[long-nosed goblin]"
+msgstr "[天狗]"
+
+# 756
+msgid "[panda]"
+msgstr "[パンダ]"
+
+# 758
+msgid "[pig nose]"
+msgstr "[豚の鼻]"
+
+# 759
+# d148
+# wf066
+msgid "[flower]"
+msgstr "[花]"
+
+# 760
+msgid "[ice cream]"
+msgstr "[アイスクリーム]"
+
+# 762
+msgid "[cookie]"
+msgstr "[クッキー]"
+
+# 763
+# se437
+msgid "[chocolate]"
+msgstr "[チョコ]"
+
+# 764
+msgid "[candy]"
+msgstr "[包みキャンディ]"
+
+# 765
+msgid "[lolipop]"
+msgstr "[ぺろぺろキャンディ]"
+
+# 769
+msgid "[volcano]"
+msgstr "[火山]"
+
+# 770
+msgid "[heart with ribbon]"
+msgstr "[リボンがけのハート]"
+
+# 771
+msgctxt "primary english"
+msgid "[ABC]"
+msgstr "[ABC]"
+
+# 772
+msgid "[pudding]"
+msgstr "[プリン]"
+
+# 773
+msgid "[honey]"
+msgstr "[蜜蜂]"
+
+# 774
+msgid "[ladybug]"
+msgstr "[テントウムシ]"
+
+# 775
+msgid "[honey pot]"
+msgstr "[蜂蜜ポット]"
+
+# 776
+msgid "[green apple]"
+msgstr "[青林檎]"
+
+# 777
+msgid "[bill with wing]"
+msgstr "[羽のはえたお札]"
+
+# 781
+msgid "[Milky Way]"
+msgstr "[天の川]"
+
+# 784
+msgid "[send mail]"
+msgstr "[メールする]"
+
+# 793
+msgid "[formal dress]"
+msgstr "[ドレス]"
+
+# 794
+msgid "[Moyai statue]"
+msgstr "[モヤイ像]"
+
+# 795
+# se039
+msgid "[station]"
+msgstr "[駅]"
+
+# 796
+msgid "[Japanese playing cards]"
+msgstr "[花札]"
+
+# 797
+msgid "[joker]"
+msgstr "[ジョーカー]"
+
+# 798
+msgid "[fried prawn]"
+msgstr "[海老フライ]"
+
+# 799
+msgid "[e-mail]"
+msgstr "[eメール]"
+
+# 800
+msgid "[walking person]"
+msgstr "[歩く人]"
+
+# 801
+msgid "[siren]"
+msgstr "[サイレン]"
+
+# 802
+msgid "[ezmovie]"
+msgstr "[ezmovie]"
+
+# 803
+msgid "[pounding heart]"
+msgstr "[ドキドキハート]"
+
+# 804
+# se523
+# d268
+# wf075
+msgid "[chick]"
+msgstr "[ひよこ]"
+
+# 805
+# d206
+msgid "[jeans]"
+msgstr "[ジーンズ]"
+
+# 806
+# d212
+msgid "[love letter]"
+msgstr "[ラブレター]"
+
+# 807
+msgid "[cycling arrows]"
+msgstr "[循環矢印]"
+
+# 810
+msgid "[angry waves]"
+msgstr "[荒波]"
+
+# 811
+msgid "[cotyledons]"
+msgstr "[双葉]"
+
+# 812
+# d267
+msgid "[snail]"
+msgstr "[かたつむり]"
+
+# 815
+msgid "[C mail]"
+msgstr "[Cメール]"
+
+# 816
+msgid "[herb]"
+msgstr "[ハーブ]"
+
+# 817
+# se010
+msgctxt "gesture game"
+msgid "[rock]"
+msgstr "[グー]"
+
+# se006
+msgid "[clothing]"
+msgstr "[洋服]"
+
+# se007
+msgid "[boots]"
+msgstr "[ブーツ]"
+
+# se00e
+msgid "[GOOD!]"
+msgstr "[GOOD!]"
+
+# se00f
+msgid "[No.1!]"
+msgstr "[No.1!]"
+
+# se019
+# d270
+msgid "[fish]"
+msgstr "[魚]"
+
+# se01c
+# d102
+msgid "[sailboat]"
+msgstr "[ヨット]"
+
+# se024
+msgid "[one o'clock]"
+msgstr "[1時]"
+
+# se025
+msgid "[two o'clock]"
+msgstr "[2時]"
+
+# se027
+msgid "[four o'clock]"
+msgstr "[4時]"
+
+# se028
+msgid "[five o'clock]"
+msgstr "[5時]"
+
+# se029
+msgid "[six o'clock]"
+msgstr "[6時]"
+
+# se02a
+msgid "[seven o'clock]"
+msgstr "[7時]"
+
+# se02b
+msgid "[eight o'clock]"
+msgstr "[8時]"
+
+# se02c
+msgid "[nine o'clock]"
+msgstr "[9時]"
+
+# se02d
+msgid "[ten o'clock]"
+msgstr "[10時]"
+
+# se02e
+msgid "[eleven o'clock]"
+msgstr "[11時]"
+
+# se02f
+msgid "[twelve o'clock]"
+msgstr "[12時]"
+
+# se031
+msgid "[emblem]"
+msgstr "[エンブレム]"
+
+# se033
+# d103
+msgid "[Christmas]"
+msgstr "[クリスマス]"
+
+# se035
+msgid "[jewel]"
+msgstr "[宝石]"
+
+# se037
+msgid "[church]"
+msgstr "[教会]"
+
+# se03b
+# wf0ab
+msgid "[mountain]"
+msgstr "[山]"
+
+# se03e
+msgid "[music]"
+msgstr "[音楽]"
+
+# se040
+msgid "[saxophone]"
+msgstr "[サックス]"
+
+# se044
+msgid "[4]"
+msgstr "[カクテル]"
+
+# se045
+# wf077
+msgid "[coffee]"
+msgstr "[コーヒー]"
+
+# se04d
+msgid "[morning]"
+msgstr "[朝]"
+
+# se052
+# d100
+# wf06d
+msgid "[dog]"
+msgstr "[犬]"
+
+# se101
+msgid "[incoming mail]"
+msgstr "[メール受信]"
+
+# se102
+msgid "[outgoing mail]"
+msgstr "[メール送信]"
+
+# se103
+msgid "[send to]"
+msgstr "[メール宛先]"
+
+# se104
+msgid "[tel to]"
+msgstr "[電話連絡先]"
+
+# se111
+msgid "[kiss]"
+msgstr "[キス]"
+
+# se115
+msgid "[athletics]"
+msgstr "[陸上]"
+
+# se116
+msgid "[auction]"
+msgstr "[オークション]"
+
+# se119
+# wf0ae
+msgid "[fallen leaves]"
+msgstr "[落葉]"
+
+# se11d
+msgid "[fire]"
+msgstr "[ファイヤー]"
+
+# se11e
+msgid "[bag]"
+msgstr "[カバン]"
+
+# se11f
+msgid "[seat]"
+msgstr "[座席]"
+
+# se121
+msgid "[park]"
+msgstr "[公園]"
+
+# se126
+# d079
+msgid "[CD]"
+msgstr "[CD]"
+
+# se127
+msgid "[DVD]"
+msgstr "[DVD]"
+
+# se129
+msgid "[video]"
+msgstr "[ビデオ]"
+
+# se130
+msgid "[bingo]"
+msgstr "[当たり]"
+
+# se133
+msgid "[slot game]"
+msgstr "[スロット]"
+
+# se134
+msgid "[horse race]"
+msgstr "[競馬]"
+
+# se135
+msgid "[motorboat race]"
+msgstr "[競艇]"
+
+# se136
+msgid "[keirin]"
+msgstr "[競輪]"
+
+# se13a
+msgid "[infant]"
+msgstr "[乳幼児]"
+
+# se13b
+# wf084
+msgid "[injector]"
+msgstr "[注射器]"
+
+# se13d
+# d005
+# wf05d
+msgid "[thunder]"
+msgstr "[雷]"
+
+# se13f
+msgid "[tub bath]"
+msgstr "[入浴]"
+
+# se141
+msgid "[audio]"
+msgstr "[音声]"
+
+# se142
+msgid "[notice]"
+msgstr "[お知らせ]"
+
+# se143
+msgid "[holiday]"
+msgstr "[祝日]"
+
+# se144
+msgid "[locked]"
+msgstr "[ロックON]"
+
+# se145
+msgid "[unlocked]"
+msgstr "[ロックOFF]"
+
+# se146
+msgid "[town]"
+msgstr "[街]"
+
+# se149
+msgid "[exchange]"
+msgstr "[為替相場]"
+
+# se14b
+msgid "[dish antenna]"
+msgstr "[パラボラ]"
+
+# se151
+msgid "[public toilet]"
+msgstr "[公衆トイレ]"
+
+# se152
+msgid "[police box]"
+msgstr "[交番]"
+
+# se15a
+msgid "[taxi]"
+msgstr "[タクシー]"
+
+# se201
+msgid "[walk]"
+msgstr "[徒歩]"
+
+# se203
+msgid "[here]"
+msgstr "[ココ]"
+
+# se211
+msgid "[toll free dial]"
+msgstr "[フリーダイヤル]"
+
+# se212
+msgid "[new]"
+msgstr "[新着]"
+
+# se213
+msgid "[update]"
+msgstr "[更新]"
+
+# se214
+msgid "[COOL]"
+msgstr "[COOL]"
+
+# se215
+# d113
+msgid "[pay]"
+msgstr "[有料]"
+
+# se216
+# d114
+msgid "[free]"
+msgstr "[無料]"
+
+# se217
+msgid "[monthly]"
+msgstr "[月]"
+
+# se218
+msgid "[apply]"
+msgstr "[申]"
+
+# se226 お得
+msgid "[save]"
+msgstr "[得]"
+
+# se24c
+msgid "[TOP]"
+msgstr "[TOP]"
+
+# se253
+msgid "[infomation]"
+msgstr "[ご案内]"
+
+# se254
+msgid "[J-PHONE Shop]"
+msgstr "[J-PHONEショップ]"
+
+# se255
+msgid "[Skyweb]"
+msgstr "[スカイウェブ]"
+
+# se256
+msgid "[Skywalker]"
+msgstr "[スカイウォーカー]"
+
+# se257
+msgid "[SkyMelody]"
+msgstr "[スカイメロディ]"
+
+# se30b
+# d264
+msgid "[liquor bottle]"
+msgstr "[徳利]"
+
+# se316
+msgid "[MD]"
+msgstr "[MD]"
+
+# se317
+msgid "[megaphone]"
+msgstr "[メガフォン]"
+
+# se319
+msgid "[dress]"
+msgstr "[ワンピース]"
+
+# se31a
+msgid "[mule]"
+msgstr "[ミュール]"
+
+# se31d
+msgid "[manicure]"
+msgstr "[マニキュア]"
+
+# se323
+msgid "[brand bag]"
+msgstr "[ブランドバッグ]"
+
+# se324
+# d167
+msgid "[clapperboard]"
+msgstr "[カチンコ]"
+
+# se338
+msgid "[tea]"
+msgstr "[お茶]"
+
+# se34b
+# wf08e
+msgid "[birthday cake"
+msgstr "[バースデーケーキ]"
+
+# se34c
+msgid "[railway lunch box]"
+msgstr "[駅弁]"
+
+# se422
+msgid "[good morning!]"
+msgstr "[おっは〜]"
+
+# se425
+msgid "[holding hands]"
+msgstr "[手を繋ぐ]"
+
+# se428
+msgid "[two persons]"
+msgstr "[人と人]"
+
+# se42b
+msgid "[american football]"
+msgstr "[アメフト]"
+
+# se42e
+# d034
+msgid "[RV car]"
+msgstr "[RV車]"
+
+# se43a
+msgid "[school bag]"
+msgstr "[ランドセル]"
+
+# se43d
+msgid "[bridal]"
+msgstr "[結婚式]"
+
+# se43e
+msgid "[wave comming]"
+msgstr "[波がザーン]"
+
+# se444
+msgid "[rice ear]"
+msgstr "[稲穂]"
+
+# se447
+msgid "[wind blowing]"
+msgstr "[風がビュー]"
+
+# se449
+msgid "[rising sun]"
+msgstr "[朝日]"
+
+# se44a
+msgid "[setting sun]"
+msgstr "[夕日]"
+
+# se44b
+msgid "[shooting star]"
+msgstr "[流れ星]"
+
+# se507
+msgid "[movie theater]"
+msgstr "[映画館]"
+
+# se50a
+msgid "[Shibuya 109]"
+msgstr "[109]"
+
+# se51b
+msgid "[safety first]"
+msgstr "[安全第一]"
+
+# se51d
+msgid "[Statue of Liberty]"
+msgstr "[自由の女神]"
+
+# se51e
+msgid "[guard]"
+msgstr "[衛兵]"
+
+# se51f
+msgid "[flamenco]"
+msgstr "[フラメンコ]"
+
+# se524
+msgid "[hamster]"
+msgstr "[ハムスター]"
+
+# se528
+msgid "[chimpanzee]"
+msgstr "[チンパンジー]"
+
+# se529
+msgid "[sheep]"
+msgstr "[羊]"
+
+# d008
+msgid "[drizzle]"
+msgstr "[小雨]"
+
+# d021
+msgid "[sportswear]"
+msgstr "[スポーツウェア]"
+
+# d051
+msgid "[coffee shop]"
+msgstr "[喫茶店]"
+
+# d055
+msgid "[boutique]"
+msgstr "[ブティック]"
+
+# d060
+msgid "[dummy horse]"
+msgstr "[木馬]"
+
+# d098
+msgid "[crescent]"
+msgstr "[三日月]"
+
+# d105
+msgid "[phone to]"
+msgstr "[phone to]"
+
+# d106
+msgid "[mail to]"
+msgstr "[mail to]"
+
+# d108
+# d109
+msgid "[i]"
+msgstr "[i]"
+
+# d110
+# wf063
+msgid "[mail]"
+msgstr "[メール]"
+
+# d111
+msgid "[presented by docoomo]"
+msgstr "[ドコモ提供]"
+
+# d112
+msgid "[docomo point]"
+msgstr "[ドコモポイント]"
+
+# d116
+msgid "[password]"
+msgstr "[パスワード]"
+
+# d118
+msgid "[CL]"
+msgstr "[CL]"
+
+# d151
+# wf099
+msgid "[flash]"
+msgstr "[ひらめき]"
+
+# d163
+msgid "[clammy sweat]"
+msgstr "[たらーっ]"
+
+# d168
+msgid "[sack]"
+msgstr "[ふくろ]"
+
+# d169
+# wf061
+msgid "[pen]"
+msgstr "[ペン]"
+
+# d170
+msgid "[human figure]"
+msgstr "[人影]"
+
+# d171
+msgid "[chair]"
+msgstr "[いす]"
+
+# d203
+msgid "[T-shirt]"
+msgstr "[Tシャツ]"
+
+# d204
+msgid "[purse]"
+msgstr "[がま口財布]"
+
+# d205
+msgid "[makeup]"
+msgstr "[化粧]"
+
+# d207
+msgid "[snow board]"
+msgstr "[スノボ]"
+
+# d209
+# wf093
+msgid "[door]"
+msgstr "[ドア]"
+
+# d219
+msgid "[tea cup]"
+msgstr "[湯のみ]"
+
+# d240
+msgid "[running person]"
+msgstr "[走る人]"
+
+# d242
+# wf0b7
+msgid "[recycle]"
+msgstr "[リサイクル]"
+
+# d247
+msgid "[pass]"
+msgstr "[合格]"
+
+# d252
+msgid "[wave]"
+msgstr "[波]"
+
+# d254
+msgid "[clover]"
+msgstr "[クローバー]"
+
+# d259
+msgid "[germ]"
+msgstr "[芽]"
+
+# d261
+msgid "[cherry blossoms]"
+msgstr "[桜]"
+
+# d263
+msgid "[shortcake]"
+msgstr "[ショートケーキ]"
+
+# d265
+msgid "[bowl]"
+msgstr "[どんぶり]"
+
+# e253
+msgid "[first finger]"
+msgstr "[人差し指]"
+
+# e260
+msgid "[community]"
+msgstr "[コミュニティ]"
+
+# e261
+msgid "[hit]"
+msgstr "[ヒット]"
+
+# e266
+msgid "[coin]"
+msgstr "[コイン]"
+
+# wf041
+msgid "[wall clock]"
+msgstr "[掛時計]"
+
+# wf043
+msgid "[mug]"
+msgstr "[マグカップ]"
+
+# wf04b
+msgid "[tear]"
+msgstr "[涙]"
+
+# wf052
+msgid "[motorcycle]"
+msgstr "[バイク]"
+
+# wf055
+msgid "[peace sign]"
+msgstr "[ピース]"
+
+# wf056
+msgid "[dinner]"
+msgstr "[ディナー]"
+
+# wf057
+msgid "[glass]"
+msgstr "[グラス]"
+
+# wf05a
+msgid "[bat]"
+msgstr "[バット]"
+
+# wf05b
+msgid "[ball]"
+msgstr "[ボール]"
+
+# wf06b
+msgid "[record]"
+msgstr "[レコード]"
+
+# wf078
+msgid "[tabaco]"
+msgstr "[タバコ]"
+
+# wf092
+# wf14d
+msgid "[EXIT]"
+msgstr "[EXIT]"
+
+# wf094
+msgid "[big buddy]"
+msgstr "[おやじ]"
+
+# wf095
+msgid "[PHS]"
+msgstr "[PHS]"
+
+# wf0a7
+msgid "[convolution]"
+msgstr "[うずまき]"
+
+# wf0a9
+msgid "[sea]"
+msgstr "[海]"
+
+# wf0b4
+msgid "[important]"
+msgstr "[重要]"
+
+# wf0d5
+msgid "[Ksitigarbha]"
+msgstr "[地蔵]"
+
+# wf0d6
+msgid "[McDonald]"
+msgstr "[マクドナルド]"
+
+# wf0d7
+msgid "[MOS BURGER]"
+msgstr "[モスバーガー]"
+
+# wf0d9
+msgid "[Lotteria]"
+msgstr "[ロッテリア]"
+
+# wf0db
+msgid "[Doutor Coffee]"
+msgstr "[ドトールコーヒー]"
+
+# wf0e3
+msgid "[Bikkuri Donkey]"
+msgstr "[びっくりドンキー]"
+
+# wf0e7
+msgid "[LAWSON]"
+msgstr "[ローソン]"
+
+# wf0e9
+msgid "[am/pm]"
+msgstr "[am/pm]"
+
+# wf0f0
+msgid "[Seibu]"
+msgstr "[西武]"
+
+# wf0fc
+msgid "[Hachi-kou]"
+msgstr "[ハチ公]"
+
+# wf148
+msgid "[UFJ Bank]"
+msgstr "[UFJ銀行]"
+

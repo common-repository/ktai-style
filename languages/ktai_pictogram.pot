@@ -1,0 +1,3731 @@
+# Translation of the mobile pictograms of plugin Ktai Style by IKEDA Yuriko.
+# Copyright (C) 2010 IKEDA Yuriko
+# This file is distributed under the same license as the Ktai Style package.
+# IKEDA Yuriko <yuriko-ktaistyle _at_ yuriko.net>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.1.0\n"
+"POT-Creation-Date: 2010-04-26 19:31+0900\\n"
+"PO-Revision-Date: 2010-04-13 02:21+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:2c,1;_n:1,2;_n_noop:1,2;_c;__ngettext:1,2;__ngettext_noop:1,2\n"
+
+# 12
+# d275
+msgid "[wine glass]"
+msgstr ""
+
+
+# 13
+msgid "[loud speaker]"
+msgstr ""
+
+
+# 15
+# 47
+# se04c
+# wf068 reverse crescent
+msgid "[moon]"
+msgstr ""
+
+
+# 16
+msgid "[lightning]"
+msgstr ""
+
+
+# 25
+# d220
+msgid "[watch]"
+msgstr ""
+
+
+# 31
+# d245
+msgid "[ban]"
+msgstr ""
+
+
+# 42
+# se237
+# d090
+msgid "[upper-left]"
+msgstr ""
+
+
+# 43
+# se238
+# d089
+msgid "[lower-right]"
+msgstr ""
+
+
+# 44
+# se04a
+# d001
+# wf048
+msgid "[sunny]"
+msgstr ""
+
+
+# 45
+# se016
+# d022
+msgid "[baseball]"
+msgstr ""
+
+
+# 46
+# se026
+# d176
+msgid "[clock]"
+msgstr ""
+
+
+# 48
+# se325
+# wf065
+msgid "[bell]"
+msgstr ""
+
+
+# 49
+# 137
+msgid "[thumbtack]"
+msgstr ""
+
+
+# 52
+# d052
+msgid "[martini]"
+msgstr ""
+
+
+# 53
+# se110
+msgid "[quatrefoil]"
+msgstr ""
+
+
+# 56
+# 103
+msgid "[doc]"
+msgstr ""
+
+
+# 57
+# 58
+# d217
+msgid "[sand clock]"
+msgstr ""
+
+
+# 59
+# 126
+msgid "[floppy disk]"
+msgstr ""
+
+
+# 65
+# 67
+# 105
+msgid "[calendar]"
+msgstr ""
+
+
+# 70
+# se236
+# d059
+msgid "[upper-right]"
+msgstr ""
+
+
+# 71
+# se239
+# d104
+msgid "[lower-left]"
+msgstr ""
+
+
+# 72
+# se034
+# d216
+msgid "[ring]"
+msgstr ""
+
+
+# 73
+# 132
+# 507
+msgid "&#10003;"
+msgstr ""
+
+
+# 74
+msgid "[poodle]"
+msgstr ""
+
+
+# 77
+# se10f
+msgid "[light bulb]"
+msgstr ""
+
+
+# 78
+# se521
+msgid "[bird]"
+msgstr ""
+
+
+# 79
+msgid "[closed folder]"
+msgstr ""
+
+
+# 83
+msgid "[briefcase]"
+msgstr ""
+
+
+# 84
+msgid "[opened folder]"
+msgstr ""
+
+
+# 85
+# se009
+# d074
+# wf042
+msgid "[telephone]"
+msgstr ""
+
+
+# 86
+msgid "[comment]"
+msgstr ""
+
+
+# 87
+msgid "[credit card]"
+msgstr ""
+
+
+# 90
+# se50c
+msgid "[USA]"
+msgstr ""
+
+
+# 91
+# 121
+# wf060
+msgid "[notebook]"
+msgstr ""
+
+
+# 92
+msgid "[clipboard]"
+msgstr ""
+
+
+# 93
+msgid "[cup]"
+msgstr ""
+
+
+# 94
+# se008
+# d068
+msgid "[camera]"
+msgstr ""
+
+
+# 95
+# se04b
+# d003
+# wf049
+msgid "[rain]"
+msgstr ""
+
+
+# 96
+msgid "[football]"
+msgstr ""
+
+
+# 97
+# 100
+# 101
+# 102
+# 147
+# se148
+# d070
+msgid "[book]"
+msgstr ""
+
+
+# 98
+msgid "[keep out]"
+msgstr ""
+
+
+# 99
+# se14e
+# d048
+msgid "[signal]"
+msgstr ""
+
+
+# 104
+# se313
+# d056
+# wf083
+msgid "[scissors]"
+msgstr ""
+
+
+# 106
+# se125
+# d065
+# wf097
+msgid "[ticket]"
+msgstr ""
+
+
+# 107
+# se049
+# d002
+# wf04a
+msgid "[cloud]"
+msgstr ""
+
+
+# 108
+# 151
+msgid "[envelope]"
+msgstr ""
+
+
+# 109
+msgid "[&yen]"
+msgstr ""
+
+
+# 110
+msgid "[video camera]"
+msgstr ""
+
+
+# 111
+msgid "[handy camera]"
+msgstr ""
+
+
+# 112
+# se036
+# d038
+# wf053
+msgid "[home]"
+msgstr ""
+
+
+# 113
+# se304
+# d256
+# wf059
+msgid "[tulip]"
+msgstr ""
+
+
+# 114
+msgid "[knife]"
+msgstr ""
+
+
+# 115
+msgid "[video tape]"
+msgstr ""
+
+
+# 116
+# d093
+msgid "[glasses]"
+msgstr ""
+
+
+# 119
+# 510
+# se114
+# d119
+msgid "[magnifier]"
+msgstr ""
+
+
+# 120
+# se03f
+msgid "[key]"
+msgstr ""
+
+
+# 122
+msgid "[opened notebook]"
+msgstr ""
+
+
+# 123
+msgid "[bolt and nut]"
+msgstr ""
+
+
+# 124
+# se13e
+msgid "[high heels]"
+msgstr ""
+
+
+# 125
+# se01b
+# d033
+# wf04f
+msgid "[car]"
+msgstr ""
+
+
+# 127
+msgid "[bar chart]"
+msgstr ""
+
+
+# 128
+# 159
+msgid "[line chart]"
+msgstr ""
+
+
+# 129
+msgid "[mailbox]"
+msgstr ""
+
+
+# 130
+msgid "[flashlight]"
+msgstr ""
+
+
+# 131
+msgid "[Roldex]"
+msgstr ""
+
+
+# 133
+# se118
+# d260
+msgid "[maple leaf]"
+msgstr ""
+
+
+# 134
+msgid "[hound dog]"
+msgstr ""
+
+
+# 135
+msgid "[battery]"
+msgstr ""
+
+
+# 136
+msgid "[scroll]"
+msgstr ""
+
+
+# 138
+msgid "[lock]"
+msgstr ""
+
+
+# 139
+msgid "[green paper]"
+msgstr ""
+
+
+# 140
+msgid "&larr;"
+msgstr ""
+
+
+# 141
+msgid "&rarr;"
+msgstr ""
+
+
+# 142
+msgid "[ledger]"
+msgstr ""
+
+
+# 143
+# d237
+# wf08c
+msgid "[clip]"
+msgstr ""
+
+
+# 144
+# se112
+# d072
+# wf090
+msgid "[present]"
+msgstr ""
+
+
+# 145
+msgid "[nameplate]"
+msgstr ""
+
+
+# 146
+# se043
+# d050
+msgid "[restaurant]"
+msgstr ""
+
+
+# 148
+# se42f
+msgid "[truck]"
+msgstr ""
+
+
+# 149
+# d214
+msgid "[pencil]"
+msgstr ""
+
+
+# 150
+msgid "[IDO]"
+msgstr ""
+
+
+# 152
+# d213
+msgid "[wrench]"
+msgstr ""
+
+
+# 153
+msgid "[Send BOX]"
+msgstr ""
+
+
+# 154
+msgid "[In BOX]"
+msgstr ""
+
+
+# 155
+msgid "[telephone receive]"
+msgstr ""
+
+
+# 156
+# se038
+# d039
+# wf054
+msgid "[building]"
+msgstr ""
+
+
+# 160
+# wf06c
+msgid "[meat]"
+msgstr ""
+
+
+# 161
+# se00a
+# d075
+msgid "[mobile phone]"
+msgstr ""
+
+
+# 162
+msgid "[outlet]"
+msgstr ""
+
+
+# 163
+msgid "[family]"
+msgstr ""
+
+
+# 164
+msgid "[link]"
+msgstr ""
+
+
+# 165
+msgid "[package]"
+msgstr ""
+
+
+# 166
+# se00b
+# d107
+msgid "[FAX]"
+msgstr ""
+
+
+# 167
+msgid "[occasionally cloudy]"
+msgstr ""
+
+
+# 168
+# se01d
+# d037
+# wf051
+msgid "[airplane]"
+msgstr ""
+
+
+# 169
+msgid "[boat]"
+msgstr ""
+
+
+# 170
+msgid "[dice]"
+msgstr ""
+
+
+# 171
+# e262
+msgid "[newspaper]"
+msgstr ""
+
+
+# 172
+# se01e
+# d030
+# wf050
+msgid "[train]"
+msgstr ""
+
+
+# 176
+# se30e
+# d066
+msgid "[smoking]"
+msgstr ""
+
+
+# 177
+# se208
+# d067
+# wf064
+msgid "[no smoking]"
+msgstr ""
+
+
+# 178
+# se20a
+# d094
+msgid "[wheel chair]"
+msgstr ""
+
+
+# 179
+# se209
+# e255
+# wf0b1
+msgid "[beginner]"
+msgstr ""
+
+
+# 190
+# se443
+# d006
+# wf0a8
+msgid "[typhoon]"
+msgstr ""
+
+
+# 191
+# se048
+# d004
+# wf08d
+msgid "[snow]"
+msgstr ""
+
+
+# 192
+# se23f
+# d009
+# wf0c8
+msgid "[Aries]"
+msgstr ""
+
+
+# 193
+# se240
+# d010
+# wf0c9
+msgid "[Taurus]"
+msgstr ""
+
+
+# 194
+# se241
+# d011
+# wf0ca
+msgid "[Gemini]"
+msgstr ""
+
+
+# 195
+# se242
+# d012
+# wf0cb
+msgid "[Cancer]"
+msgstr ""
+
+
+# 196
+# se243
+# d013
+# wf0cc
+msgid "[Leo]"
+msgstr ""
+
+
+# 197
+# se244
+# d014
+# wf0cd
+msgid "[Virgo]"
+msgstr ""
+
+
+# 198
+# se245
+# d015
+# wf0ce
+msgid "[Libra]"
+msgstr ""
+
+
+# 199
+# se246
+# d016
+# wf0cf
+msgid "[Scorpius]"
+msgstr ""
+
+
+# 200
+# se247
+# d017
+# wf0d1
+msgid "[Sagittarius]"
+msgstr ""
+
+
+# 201
+# se248
+# d018
+# wf0d2
+msgid "[Capricornus]"
+msgstr ""
+
+
+# 202
+# se249
+# d019
+# wf0d3
+msgid "[Aquarius]"
+msgstr ""
+
+
+# 203
+# se24a
+# d020
+# wf0d4
+msgid "[Pisces]"
+msgstr ""
+
+
+# 204
+# se24b
+# wf0d0
+msgid "[Ophiuchus]"
+msgstr ""
+
+
+# 205
+# se154
+msgid "[ATM]"
+msgstr ""
+
+
+# 206
+# se156
+# d045
+msgid "[CVS]"
+msgstr ""
+
+
+# 207
+# se140
+# se309
+# d049
+msgid "[toilet]"
+msgstr ""
+
+
+# 208
+# se14f
+# d047
+msgid "[parking]"
+msgstr ""
+
+
+# 209
+# se150
+msgid "[bus stop]"
+msgstr ""
+
+
+# 210
+# d121
+msgid "[location info]"
+msgstr ""
+
+
+# 211
+# wf085
+msgid "[anchor]"
+msgstr ""
+
+
+# 212
+# se14d
+# d042
+msgid "[bank]"
+msgstr ""
+
+
+# 213
+# se03a
+# d046
+msgid "[gas station]"
+msgstr ""
+
+
+# 214
+msgid "[map]"
+msgstr ""
+
+
+# 215
+# d218
+msgid "[bicycle]"
+msgstr ""
+
+
+# 216
+# se159
+# d035
+# wf0af
+msgid "[bus]"
+msgstr ""
+
+
+# 217
+# se01f
+# se435
+# d032
+msgid "[bullet train]"
+msgstr ""
+
+
+# 218
+msgid "[marathon]"
+msgstr ""
+
+
+# 219
+# se018
+# d025
+# wf0b0
+msgid "[soccer]"
+msgstr ""
+
+
+# 220
+# se015
+# d024
+# wf09c
+msgid "[tennis]"
+msgstr ""
+
+
+# 221
+msgid "[snowboard]"
+msgstr ""
+
+
+# 222
+# se132
+# d028
+msgid "[checker flag]"
+msgstr ""
+
+
+# 223
+# se124
+msgid "[amusement park]"
+msgstr ""
+
+
+# 224
+# se123
+# d147
+# wf067
+msgid "[hot spring]"
+msgstr ""
+
+
+# 225
+msgid "[red lantern]"
+msgstr ""
+
+
+# 226
+# se03d
+# d058
+# wf09d
+msgid "[movie]"
+msgstr ""
+
+
+# 227
+msgid "[night bridge]"
+msgstr ""
+
+
+# 228
+# se509
+msgid "[Tokyo tower]"
+msgstr ""
+
+
+# 229
+# wf0bd
+msgid "[777]"
+msgstr ""
+
+
+# 230
+msgid "[decorative banner]"
+msgstr ""
+
+
+# 232
+# se12b
+# d078
+msgid "[game]"
+msgstr ""
+
+
+# 234
+msgid "[Christmas tree]"
+msgstr ""
+
+
+# 235
+# se030
+msgid "[cherry blossom viewing]"
+msgstr ""
+
+
+# 236
+# se11b
+msgid "[ghost]"
+msgstr ""
+
+
+# 237
+# se50b
+msgid "[Japan]"
+msgstr ""
+
+
+# 238
+# se348
+msgid "[watermelon]"
+msgstr ""
+
+
+# 239
+# se046
+msgid "[cake]"
+msgstr ""
+
+
+# 240
+msgid "[frying pan]"
+msgstr ""
+
+
+# 241
+# d255
+msgid "[cherry]"
+msgstr ""
+
+
+# 242
+msgid "[blowfish]"
+msgstr ""
+
+
+# 243
+# se347
+msgid "[strawberry]"
+msgstr ""
+
+
+# 244
+# se342
+# d262
+# wf07a
+msgid "[rice ball]"
+msgstr ""
+
+
+# 245
+# se120
+# d054
+msgid "[hamburger]"
+msgstr ""
+
+
+# 246
+# se054
+msgid "[whale]"
+msgstr ""
+
+
+# 247
+# se52c
+msgid "[rabbit]"
+msgstr ""
+
+
+# 248
+# se01a
+# d273
+msgid "[horse]"
+msgstr ""
+
+
+# 249
+# se109
+# wf06f
+msgid "[monkey]"
+msgstr ""
+
+
+# 250
+# se531
+# wf086
+msgid "[frog]"
+msgstr ""
+
+
+# 251
+# se04f
+# d101
+# wf06e
+msgid "[cat]"
+msgstr ""
+
+
+# 252
+# se055
+# d269
+msgid "[penguin]"
+msgstr ""
+
+
+# 253
+msgid "[ant]"
+msgstr ""
+
+
+# 254
+# se10b
+# d274
+msgid "[pig]"
+msgstr ""
+
+
+# 255
+# se307
+msgid "[palm tree]"
+msgstr ""
+
+
+# 256
+# se305
+msgid "[sunflower]"
+msgstr ""
+
+
+# 262
+# se334
+# d152
+# wf074
+msgid "[miffed]"
+msgstr ""
+
+
+# 263
+msgid "[drip]"
+msgstr ""
+
+
+# 265
+# se023
+# d138
+# wf088
+msgid "[break heart]"
+msgstr ""
+
+
+# 269
+msgid "[flame]"
+msgstr ""
+
+
+# 270
+msgid "[SOS]"
+msgstr ""
+
+
+# 271
+# se14c
+# wf0a5
+msgid "[biceps]"
+msgstr ""
+
+
+# 273
+# se003
+# d149
+msgid "[hickey]"
+msgstr ""
+
+
+# 274
+# se10c
+msgid "[space alien]"
+msgstr ""
+
+
+# 275
+msgid "[Naruto]"
+msgstr ""
+
+
+# 276
+# 728
+# se536
+# se536
+# d091
+# wf09a
+msgid "[footmark]"
+msgstr ""
+
+
+# 277
+# se11a
+msgid "[devil]"
+msgstr ""
+
+
+# 278
+msgid "[flower circle]"
+msgstr ""
+
+
+# 279
+# se315
+# d241
+msgid "[secret]"
+msgstr ""
+
+
+# 280
+msgid "[perfect score]"
+msgstr ""
+
+
+# 281
+# se00d
+# d153
+# wf05c
+msgid "[punch]"
+msgstr ""
+
+
+# 282 dash
+msgid "=3"
+msgstr ""
+
+
+# 283
+# se05a
+# wf07c
+msgid "[plop]"
+msgstr ""
+
+
+# 284
+msgid "&uarr;"
+msgstr ""
+
+
+# 285
+msgid "(save)"
+msgstr ""
+
+
+# 286
+# se11c
+# wf062
+msgid "[scull]"
+msgstr ""
+
+
+# 287
+msgid "[thumb sign]"
+msgstr ""
+
+
+# 288
+# se12a
+msgid "[tv set]"
+msgstr ""
+
+
+# 289
+# se03c
+# d057
+# wf073
+msgid "[microphone]"
+msgstr ""
+
+
+# 290
+msgid "[wallet]"
+msgstr ""
+
+
+# 292
+# se041
+# e256
+msgid "[guitar]"
+msgstr ""
+
+
+# 293
+msgid "[violin]"
+msgstr ""
+
+
+# 294
+# se30a
+# d061
+msgid "[headphone]"
+msgstr ""
+
+
+# 295
+# se31c
+msgid "[rouge]"
+msgstr ""
+
+
+# 296
+# se113
+msgid "[pistol]"
+msgstr ""
+
+
+# 297
+# se31e
+msgid "[beauty-treatment]"
+msgstr ""
+
+
+# 298
+msgid "[EZ]"
+msgstr ""
+
+
+# 299
+# d122
+msgid "[FREE]"
+msgstr ""
+
+
+# 301
+msgid "[women's wear]"
+msgstr ""
+
+
+# 302
+msgid "[UFO]"
+msgstr ""
+
+
+# 303
+msgid "[updated!]"
+msgstr ""
+
+
+# 304
+msgid "[injection]"
+msgstr ""
+
+
+# 305
+# d007
+msgid "[fog]"
+msgstr ""
+
+
+# 306
+# se014
+# d023
+msgid "[golf]"
+msgstr ""
+
+
+# 307
+# se42a
+# d027
+msgid "[basketball]"
+msgstr ""
+
+
+# 308
+# d029
+msgid "[pager]"
+msgstr ""
+
+
+# 309
+# se502
+# d062
+msgid "[art]"
+msgstr ""
+
+
+# 310
+# se503
+# d063
+msgid "[play]"
+msgstr ""
+
+
+# 311
+# d064
+msgid "[event]"
+msgstr ""
+
+
+# 312
+# se314
+# d071
+msgid "[ribbon]"
+msgstr ""
+
+
+# 313
+# d073
+msgid "[birthday]"
+msgstr ""
+
+
+# 317
+# se419
+# d084
+msgid "[eye]"
+msgstr ""
+
+
+# 318
+# se41b
+# d085
+msgid "[ear]"
+msgstr ""
+
+
+# 319
+# se011
+# d087
+msgctxt "gesture game"
+msgid "[scissors]"
+msgstr ""
+
+
+# 320
+# se012
+# d088
+msgctxt "gesture game"
+msgid "[paper]"
+msgstr ""
+
+
+# 322
+# d096
+msgid "[lunar eclipse]"
+msgstr ""
+
+
+# 323
+# d097
+msgid "[half moon]"
+msgstr ""
+
+
+# 324
+msgid "[clear]"
+msgstr ""
+
+
+# 326
+# se24d
+# se420
+# d228
+msgid "[OK]"
+msgstr ""
+
+
+# 331
+msgid "[ezplus]"
+msgstr ""
+
+
+# 332
+msgid "[earth]"
+msgstr ""
+
+
+# 333
+# se340
+# wf072
+msgid "[ramen]"
+msgstr ""
+
+
+# 334
+# d120
+msgid "[NEW]"
+msgstr ""
+
+
+# 335
+# wf07e
+msgid "[shirt]"
+msgstr ""
+
+
+# 336
+# d092
+msgid "[shoe]"
+msgstr ""
+
+
+# 337
+# se00c
+# d211
+msgid "[personal computer]"
+msgstr ""
+
+
+# 338
+# se128
+msgid "[radio]"
+msgstr ""
+
+
+# 339
+# se032
+msgid "[rose]"
+msgstr ""
+
+
+# 340
+# d208
+msgid "[chapel]"
+msgstr ""
+
+
+# 341
+# se434
+# d031
+msgid "[subway]"
+msgstr ""
+
+
+# 342
+# d253
+# wf0ac
+msgid "[Mt. Fuji]"
+msgstr ""
+
+
+# 344
+# se04e
+msgid "[angel]"
+msgstr ""
+
+
+# 345
+# se050
+msgid "[tiger]"
+msgstr ""
+
+
+# 346
+# se051
+msgid "[bear]"
+msgstr ""
+
+
+# 347
+# se053
+msgid "[mouse]"
+msgstr ""
+
+
+# 352
+# se10a
+# wf071
+msgid "[octopus]"
+msgstr ""
+
+
+# 353
+# se10d
+msgid "[rocket]"
+msgstr ""
+
+
+# 354
+# se10e
+# d215
+msgid "[crown]"
+msgstr ""
+
+
+# 355
+msgid "[kissing]"
+msgstr ""
+
+
+# 356
+msgid "[hammer]"
+msgstr ""
+
+
+# 357
+# se117
+msgid "[fireworks]"
+msgstr ""
+
+
+# 358
+msgid "[autumn leaves]"
+msgstr ""
+
+
+# 359
+msgid "[suitcase]"
+msgstr ""
+
+
+# 360
+msgid "[fountain]"
+msgstr ""
+
+
+# 361
+# se122
+# wf0ad
+msgid "[camp]"
+msgstr ""
+
+
+# 362
+# se12d
+# e259
+msgid "[mahjong]"
+msgstr ""
+
+
+# 363
+# se12e
+msgid "[VS]"
+msgstr ""
+
+
+# 364
+# se131
+msgid "[trophy]"
+msgstr ""
+
+
+# 365
+msgid "[turtle]"
+msgstr ""
+
+
+# 366
+# se511
+msgid "[Spain]"
+msgstr ""
+
+
+# 367
+msgid "[Rossiya]"
+msgstr ""
+
+
+# 368
+# se137
+msgid "[under construction]"
+msgstr ""
+
+
+# 369
+msgid "[bath]"
+msgstr ""
+
+
+# 370
+# 402
+# se30d
+msgid "[congratulations]"
+msgstr ""
+
+
+# 371
+msgid "[evening]"
+msgstr ""
+
+
+# 372
+# se147
+msgid "[egg]"
+msgstr ""
+
+
+# 373
+# se14a
+# e257
+msgid "[stock prices]"
+msgstr ""
+
+
+# 374
+msgid "[police officer]"
+msgstr ""
+
+
+# 375
+# se153
+msgid "[post office]"
+msgstr ""
+
+
+# 376
+# se155
+# d041
+msgid "[hospital]"
+msgstr ""
+
+
+# 377
+# se157
+# d251
+msgid "[school]"
+msgstr ""
+
+
+# 378
+# se158
+# d044
+msgid "[hotel]"
+msgstr ""
+
+
+# 379
+# se202
+# d036
+msgid "[ship]"
+msgstr ""
+
+
+# 380
+# se207
+# wf0b5
+msgid "[R18]"
+msgstr ""
+
+
+# 381
+msgid "[.i|]"
+msgstr ""
+
+
+# 382
+msgid "[COOL!]"
+msgstr ""
+
+
+# 383
+# se227
+msgid "[discount]"
+msgstr ""
+
+
+# 384
+# se228
+msgid "[service fee]"
+msgstr ""
+
+
+# 385
+# se229
+# d115
+msgid "[ID]"
+msgstr ""
+
+
+# 386
+# se22a
+# d248
+msgid "[occupied]"
+msgstr ""
+
+
+# 387
+# se22b
+# d246
+msgid "[vacant]"
+msgstr ""
+
+
+# 388
+# se22c
+msgid "[reserved]"
+msgstr ""
+
+
+# 389
+# se22d
+msgid "[business hours]"
+msgstr ""
+
+
+# 392
+msgid "[fortune]"
+msgstr ""
+
+
+# 393
+# se250
+msgid "[silent mode]"
+msgstr ""
+
+
+# 394
+# se251
+msgid "[turn off]"
+msgstr ""
+
+
+# 395
+# se301
+# d076
+msgid "[memo]"
+msgstr ""
+
+
+# 396
+# se302
+# wf07d
+msgid "[tie]"
+msgstr ""
+
+
+# 397
+# se303
+msgid "[hibiscus]"
+msgstr ""
+
+
+# 398
+# se306
+msgid "[bouquet]"
+msgstr ""
+
+
+# 399
+# se308
+msgid "[cactus]"
+msgstr ""
+
+
+# 400
+msgid "[sake bottle]"
+msgstr ""
+
+
+# 401
+# se047
+# se30c
+# d053
+# wf05f
+msgid "[beer]"
+msgstr ""
+
+
+# 403
+# se30f
+msgid "[pill]"
+msgstr ""
+
+
+# 404
+# se310
+msgid "[balloon]"
+msgstr ""
+
+
+# 405
+# se312
+msgid "[cracker]"
+msgstr ""
+
+
+# 406
+msgid "[eznavi]"
+msgstr ""
+
+
+# 407
+# se318
+msgid "[hat]"
+msgstr ""
+
+
+# 408
+# se31b
+msgid "[long boots]"
+msgstr ""
+
+
+# 409
+msgid "[nail]"
+msgstr ""
+
+
+# 410
+# se31f
+msgid "[beauty salon]"
+msgstr ""
+
+
+# 411
+# se320
+msgid "[barbershop]"
+msgstr ""
+
+
+# 412
+# se321
+msgid "[kimono]"
+msgstr ""
+
+
+# 413
+# se322
+# wf082
+msgid "[bikini]"
+msgstr ""
+
+
+# 421
+# se013
+# d026
+# wf09e
+msgid "[ski]"
+msgstr ""
+
+
+# 423
+msgid "[green tea]"
+msgstr ""
+
+
+# 424
+# se339
+# d266
+msgid "[bread]"
+msgstr ""
+
+
+# 425
+# se33a
+msgid "[soft ice cream]"
+msgstr ""
+
+
+# 426
+# se33b
+msgid "[French fries]"
+msgstr ""
+
+
+# 427
+# se33c
+msgid "[dumpling]"
+msgstr ""
+
+
+# 428
+# se33d
+msgid "[rice cracker]"
+msgstr ""
+
+
+# 429
+# se33e
+msgid "[rice]"
+msgstr ""
+
+
+# 430
+# se33f
+msgid "[spaghetti]"
+msgstr ""
+
+
+# 431
+# se341
+msgid "[curry with rice]"
+msgstr ""
+
+
+# 432
+# se343
+msgid "[oden]"
+msgstr ""
+
+
+# 433
+# se344
+msgid "[sushi]"
+msgstr ""
+
+
+# 434
+# se345
+# d258
+# wf08f
+msgid "[apple]"
+msgstr ""
+
+
+# 435
+# se346
+msgid "[orange]"
+msgstr ""
+
+
+# 436
+# se349
+msgid "[tomato]"
+msgstr ""
+
+
+# 437
+# se34a
+msgid "[eggplant]"
+msgstr ""
+
+
+# 438
+msgid "[box lunch]"
+msgstr ""
+
+
+# 439
+# se34d
+msgid "[pan]"
+msgstr ""
+
+
+# 457
+# se41a
+msgid "[nose]"
+msgstr ""
+
+
+# 458
+# se41c
+# wf04d
+msgid "[mouth]"
+msgstr ""
+
+
+# 459
+# se41d
+msgid "[sorry]"
+msgstr ""
+
+
+# 460
+# se41f
+msgid "[clap]"
+msgstr ""
+
+
+# 461
+# 465
+msgid "[OK!]"
+msgstr ""
+
+
+# 462
+# se421
+msgid "[boo!]"
+msgstr ""
+
+
+# 463
+# se41e
+msgid "[bye]"
+msgstr ""
+
+
+# 464
+# d236
+msgid "[No Good]"
+msgstr ""
+
+
+# 467
+# e254
+msgid "[couple]"
+msgstr ""
+
+
+# 468
+# se429
+msgid "[bunny]"
+msgstr ""
+
+
+# 469
+# se042
+msgid "[trumpet]"
+msgstr ""
+
+
+# 470
+# se42c
+msgid "[billiards]"
+msgstr ""
+
+
+# 471
+# se42d
+msgid "[swimming]"
+msgstr ""
+
+
+# 472
+# se430
+msgid "[fire engine]"
+msgstr ""
+
+
+# 473
+# se431
+msgid "[ambulance]"
+msgstr ""
+
+
+# 474
+# se432
+msgid "[police car]"
+msgstr ""
+
+
+# 475
+# se433
+msgid "[roller coaster]"
+msgstr ""
+
+
+# 476
+# se436
+msgid "[pine branches]"
+msgstr ""
+
+
+# 477
+# se438
+msgid "[Girls' Festival]"
+msgstr ""
+
+
+# 478
+# se439
+msgid "[graduation ceremony]"
+msgstr ""
+
+
+# 479
+msgid "[entrance ceremony]"
+msgstr ""
+
+
+# 480
+# se43b
+msgid "[carp streamer]"
+msgstr ""
+
+
+# 481
+# se43c
+msgid "[umbrella]"
+msgstr ""
+
+
+# 482
+msgid "[bride]"
+msgstr ""
+
+
+# 483
+# se43f
+# wf081
+msgid "[shaved ice]"
+msgstr ""
+
+
+# 484
+# se440
+msgid "[sparkler]"
+msgstr ""
+
+
+# 485
+# se441
+msgid "[conch]"
+msgstr ""
+
+
+# 486
+# se442
+msgid "[wind-bell]"
+msgstr ""
+
+
+# 487
+# se445
+msgid "[Halloween]"
+msgstr ""
+
+
+# 488
+# se446
+msgid "[moon-viewing]"
+msgstr ""
+
+
+# 489
+# se448
+# e263
+msgid "[Santa Claus]"
+msgstr ""
+
+
+# 490
+# d172
+msgid "[night]"
+msgstr ""
+
+
+# 491
+# se44c
+msgid "[rainbow]"
+msgstr ""
+
+
+# 492
+# se501
+msgid "[love hotel]"
+msgstr ""
+
+
+# 493
+msgid "[sunrise]"
+msgstr ""
+
+
+# 494
+msgid "[silk hat]"
+msgstr ""
+
+
+# 495
+# se504
+msgid "[department store]"
+msgstr ""
+
+
+# 496c
+# se505
+msgid "[castle tower]"
+msgstr ""
+
+
+# 497
+# se506
+msgid "[castle]"
+msgstr ""
+
+
+# 498
+# se508
+msgid "[factory]"
+msgstr ""
+
+
+# 499
+# se50d
+msgid "[France]"
+msgstr ""
+
+
+# 500
+msgid "[Openwave]"
+msgstr ""
+
+
+# 501
+msgid "[locked fast]"
+msgstr ""
+
+
+# 502
+msgctxt "uppercase"
+msgid "[ABC]"
+msgstr ""
+
+
+# 503
+msgctxt "lowercase"
+msgid "[abc]"
+msgstr ""
+
+
+# 504
+msgctxt "numbers"
+msgid "[012]"
+msgstr ""
+
+
+# 505
+msgctxt "punctuation"
+msgid "[,@#]"
+msgstr ""
+
+
+# 506
+msgid "[enabled]"
+msgstr ""
+
+
+# 508
+msgid "[edit]"
+msgstr ""
+
+
+# 512
+msgid "[favorites]"
+msgstr ""
+
+
+# 513
+msgid "[termination]"
+msgstr ""
+
+
+# 514
+msgid "[Home]"
+msgstr ""
+
+
+# 515
+msgid "[Inbox]"
+msgstr ""
+
+
+# 517
+msgid "[Private]"
+msgstr ""
+
+
+# 518
+msgid "[Reload]"
+msgstr ""
+
+
+# 700
+# se50e
+msgid "[Germany]"
+msgstr ""
+
+
+# 701
+# se50f
+msgid "[Italy]"
+msgstr ""
+
+
+# 702
+# se510
+msgid "[Britain]"
+msgstr ""
+
+
+# 703
+# se513
+msgid "[China]"
+msgstr ""
+
+
+# 704
+# se514
+msgid "[Korea]"
+msgstr ""
+
+
+# 705
+# se515
+msgid "[White people]"
+msgstr ""
+
+
+# 706
+# se516
+msgid "[Chinese people]"
+msgstr ""
+
+
+# 707
+# se517
+msgid "[Indian]"
+msgstr ""
+
+
+# 708
+# se518
+msgid "[grand father]"
+msgstr ""
+
+
+# 709
+# se519
+msgid "[grand mother]"
+msgstr ""
+
+
+# 710
+# se51a
+msgid "[baby]"
+msgstr ""
+
+
+# 711
+msgid "[construction worker]"
+msgstr ""
+
+
+# 712
+# se51c
+msgid "[princess]"
+msgstr ""
+
+
+# 713
+# se520
+msgid "[dolphin]"
+msgstr ""
+
+
+# 714
+msgid "[dance]"
+msgstr ""
+
+
+# 715
+# se522
+msgid "[tropical fish]"
+msgstr ""
+
+
+# 716
+# se525
+msgid "[hairy caterpillar]"
+msgstr ""
+
+
+# 717
+# se526
+# wf070
+msgid "[elephant]"
+msgstr ""
+
+
+# 718
+# se527
+msgid "[koala]"
+msgstr ""
+
+
+# 719
+# se52b
+msgid "[cow]"
+msgstr ""
+
+
+# 720
+# se52d
+msgid "[snake]"
+msgstr ""
+
+
+# 721
+# se52e
+msgid "[chicken]"
+msgstr ""
+
+
+# 722
+# se52f
+msgid "[wild boar]"
+msgstr ""
+
+
+# 723
+# se530
+msgid "[camel]"
+msgstr ""
+
+
+# 724
+# se532
+msgid "[Blood type A]"
+msgstr ""
+
+
+# 725
+# se533
+msgid "[Blood type B]"
+msgstr ""
+
+
+# 726
+# se535
+msgid "[Blood type O]"
+msgstr ""
+
+
+# 727
+# se534
+msgid "[Bood type AB]"
+msgstr ""
+
+
+# 729
+msgid "[sneakers]"
+msgstr ""
+
+
+# 730
+# wf069
+msgid "[flag]"
+msgstr ""
+
+
+# 736
+# wf080
+msgid "[melon]"
+msgstr ""
+
+
+# 737
+msgid "[pineapple]"
+msgstr ""
+
+
+# 738
+msgid "[grape]"
+msgstr ""
+
+
+# 739
+# d257
+msgid "[banana]"
+msgstr ""
+
+
+# 740
+msgid "[corn]"
+msgstr ""
+
+
+# 741
+msgid "[mushroom]"
+msgstr ""
+
+
+# 742
+msgid "[chestnut]"
+msgstr ""
+
+
+# 743
+# wf0e0
+msgid "[peach]"
+msgstr ""
+
+
+# 744
+msgid "[sweet potato]"
+msgstr ""
+
+
+# 745
+msgid "[pizza]"
+msgstr ""
+
+
+# 746
+msgid "[turkey]"
+msgstr ""
+
+
+# 747
+msgid "[Star Festival]"
+msgstr ""
+
+
+# 748
+msgid "[tropical drink]"
+msgstr ""
+
+
+# 749
+msgid "[dragon]"
+msgstr ""
+
+
+# 750
+msgid "[piano]"
+msgstr ""
+
+
+# 751
+# se017
+# wf0aa
+msgid "[surfing]"
+msgstr ""
+
+
+# 752
+msgid "[fishing]"
+msgstr ""
+
+
+# 753
+msgid "[bowling]"
+msgstr ""
+
+
+# 754
+msgid "[Namahage]"
+msgstr ""
+
+
+# 755
+msgid "[long-nosed goblin]"
+msgstr ""
+
+
+# 756
+msgid "[panda]"
+msgstr ""
+
+
+# 758
+msgid "[pig nose]"
+msgstr ""
+
+
+# 759
+# d148
+# wf066
+msgid "[flower]"
+msgstr ""
+
+
+# 760
+msgid "[ice cream]"
+msgstr ""
+
+
+# 762
+msgid "[cookie]"
+msgstr ""
+
+
+# 763
+# se437
+msgid "[chocolate]"
+msgstr ""
+
+
+# 764
+msgid "[candy]"
+msgstr ""
+
+
+# 765
+msgid "[lolipop]"
+msgstr ""
+
+
+# 769
+msgid "[volcano]"
+msgstr ""
+
+
+# 770
+msgid "[heart with ribbon]"
+msgstr ""
+
+
+# 771
+msgctxt "primary english"
+msgid "[ABC]"
+msgstr ""
+
+
+# 772
+msgid "[pudding]"
+msgstr ""
+
+
+# 773
+msgid "[honey]"
+msgstr ""
+
+
+# 774
+msgid "[ladybug]"
+msgstr ""
+
+
+# 775
+msgid "[honey pot]"
+msgstr ""
+
+
+# 776
+msgid "[green apple]"
+msgstr ""
+
+
+# 777
+msgid "[bill with wing]"
+msgstr ""
+
+
+# 781
+msgid "[Milky Way]"
+msgstr ""
+
+
+# 784
+msgid "[send mail]"
+msgstr ""
+
+
+# 793
+msgid "[formal dress]"
+msgstr ""
+
+
+# 794
+msgid "[Moyai statue]"
+msgstr ""
+
+
+# 795
+# se039
+msgid "[station]"
+msgstr ""
+
+
+# 796
+msgid "[Japanese playing cards]"
+msgstr ""
+
+
+# 797
+msgid "[joker]"
+msgstr ""
+
+
+# 798
+msgid "[fried prawn]"
+msgstr ""
+
+
+# 799
+msgid "[e-mail]"
+msgstr ""
+
+
+# 800
+msgid "[walking person]"
+msgstr ""
+
+
+# 801
+msgid "[siren]"
+msgstr ""
+
+
+# 802
+msgid "[ezmovie]"
+msgstr ""
+
+
+# 803
+msgid "[pounding heart]"
+msgstr ""
+
+
+# 804
+# se523
+# d268
+# wf075
+msgid "[chick]"
+msgstr ""
+
+
+# 805
+# d206
+msgid "[jeans]"
+msgstr ""
+
+
+# 806
+# d212
+msgid "[love letter]"
+msgstr ""
+
+
+# 807
+msgid "[cycling arrows]"
+msgstr ""
+
+
+# 810
+msgid "[angry waves]"
+msgstr ""
+
+
+# 811
+msgid "[cotyledons]"
+msgstr ""
+
+
+# 812
+# d267
+msgid "[snail]"
+msgstr ""
+
+
+# 815
+msgid "[C mail]"
+msgstr ""
+
+
+# 816
+msgid "[herb]"
+msgstr ""
+
+
+# 817
+# se010
+msgctxt "gesture game"
+msgid "[rock]"
+msgstr ""
+
+
+# se006
+msgid "[clothing]"
+msgstr ""
+
+
+# se007
+msgid "[boots]"
+msgstr ""
+
+
+# se00e
+msgid "[GOOD!]"
+msgstr ""
+
+
+# se00f
+msgid "[No.1!]"
+msgstr ""
+
+
+# se019
+# d270
+msgid "[fish]"
+msgstr ""
+
+
+# se01c
+# d102
+msgid "[sailboat]"
+msgstr ""
+
+
+# se024
+msgid "[one o'clock]"
+msgstr ""
+
+
+# se025
+msgid "[two o'clock]"
+msgstr ""
+
+
+# se027
+msgid "[four o'clock]"
+msgstr ""
+
+
+# se028
+msgid "[five o'clock]"
+msgstr ""
+
+
+# se029
+msgid "[six o'clock]"
+msgstr ""
+
+
+# se02a
+msgid "[seven o'clock]"
+msgstr ""
+
+
+# se02b
+msgid "[eight o'clock]"
+msgstr ""
+
+
+# se02c
+msgid "[nine o'clock]"
+msgstr ""
+
+
+# se02d
+msgid "[ten o'clock]"
+msgstr ""
+
+
+# se02e
+msgid "[eleven o'clock]"
+msgstr ""
+
+
+# se02f
+msgid "[twelve o'clock]"
+msgstr ""
+
+
+# se031
+msgid "[emblem]"
+msgstr ""
+
+
+# se033
+# d103
+msgid "[Christmas]"
+msgstr ""
+
+
+# se035
+msgid "[jewel]"
+msgstr ""
+
+
+# se037
+msgid "[church]"
+msgstr ""
+
+
+# se03b
+# wf0ab
+msgid "[mountain]"
+msgstr ""
+
+
+# se03e
+msgid "[music]"
+msgstr ""
+
+
+# se040
+msgid "[saxophone]"
+msgstr ""
+
+
+# se044
+msgid "[4]"
+msgstr ""
+
+
+# se045
+# wf077
+msgid "[coffee]"
+msgstr ""
+
+
+# se04d
+msgid "[morning]"
+msgstr ""
+
+
+# se052
+# d100
+# wf06d
+msgid "[dog]"
+msgstr ""
+
+
+# se101
+msgid "[incoming mail]"
+msgstr ""
+
+
+# se102
+msgid "[outgoing mail]"
+msgstr ""
+
+
+# se103
+msgid "[send to]"
+msgstr ""
+
+
+# se104
+msgid "[tel to]"
+msgstr ""
+
+
+# se111
+msgid "[kiss]"
+msgstr ""
+
+
+# se115
+msgid "[athletics]"
+msgstr ""
+
+
+# se116
+msgid "[auction]"
+msgstr ""
+
+
+# se119
+# wf0ae
+msgid "[fallen leaves]"
+msgstr ""
+
+
+# se11d
+msgid "[fire]"
+msgstr ""
+
+
+# se11e
+msgid "[bag]"
+msgstr ""
+
+
+# se11f
+msgid "[seat]"
+msgstr ""
+
+
+# se121
+msgid "[park]"
+msgstr ""
+
+
+# se126
+# d079
+msgid "[CD]"
+msgstr ""
+
+
+# se127
+msgid "[DVD]"
+msgstr ""
+
+
+# se129
+msgid "[video]"
+msgstr ""
+
+
+# se130
+msgid "[bingo]"
+msgstr ""
+
+
+# se133
+msgid "[slot game]"
+msgstr ""
+
+
+# se134
+msgid "[horse race]"
+msgstr ""
+
+
+# se135
+msgid "[motorboat race]"
+msgstr ""
+
+
+# se136
+msgid "[keirin]"
+msgstr ""
+
+
+# se13a
+msgid "[infant]"
+msgstr ""
+
+
+# se13b
+# wf084
+msgid "[injector]"
+msgstr ""
+
+
+# se13d
+# d005
+# wf05d
+msgid "[thunder]"
+msgstr ""
+
+
+# se13f
+msgid "[tub bath]"
+msgstr ""
+
+
+# se141
+msgid "[audio]"
+msgstr ""
+
+
+# se142
+msgid "[notice]"
+msgstr ""
+
+
+# se143
+msgid "[holiday]"
+msgstr ""
+
+
+# se144
+msgid "[locked]"
+msgstr ""
+
+
+# se145
+msgid "[unlocked]"
+msgstr ""
+
+
+# se146
+msgid "[town]"
+msgstr ""
+
+
+# se149
+msgid "[exchange]"
+msgstr ""
+
+
+# se14b
+msgid "[dish antenna]"
+msgstr ""
+
+
+# se151
+msgid "[public toilet]"
+msgstr ""
+
+
+# se152
+msgid "[police box]"
+msgstr ""
+
+
+# se15a
+msgid "[taxi]"
+msgstr ""
+
+
+# se201
+msgid "[walk]"
+msgstr ""
+
+
+# se203
+msgid "[here]"
+msgstr ""
+
+
+# se211
+msgid "[toll free dial]"
+msgstr ""
+
+
+# se212
+msgid "[new]"
+msgstr ""
+
+
+# se213
+msgid "[update]"
+msgstr ""
+
+
+# se214
+msgid "[COOL]"
+msgstr ""
+
+
+# se215
+# d113
+msgid "[pay]"
+msgstr ""
+
+
+# se216
+# d114
+msgid "[free]"
+msgstr ""
+
+
+# se217
+msgid "[monthly]"
+msgstr ""
+
+
+# se218
+msgid "[apply]"
+msgstr ""
+
+
+# se226 お得
+msgid "[save]"
+msgstr ""
+
+
+# se24c
+msgid "[TOP]"
+msgstr ""
+
+
+# se253
+msgid "[infomation]"
+msgstr ""
+
+
+# se254
+msgid "[J-PHONE Shop]"
+msgstr ""
+
+
+# se255
+msgid "[Skyweb]"
+msgstr ""
+
+
+# se256
+msgid "[Skywalker]"
+msgstr ""
+
+
+# se257
+msgid "[SkyMelody]"
+msgstr ""
+
+
+# se30b
+# d264
+msgid "[liquor bottle]"
+msgstr ""
+
+
+# se316
+msgid "[MD]"
+msgstr ""
+
+
+# se317
+msgid "[megaphone]"
+msgstr ""
+
+
+# se319
+msgid "[dress]"
+msgstr ""
+
+
+# se31a
+msgid "[mule]"
+msgstr ""
+
+
+# se31d
+msgid "[manicure]"
+msgstr ""
+
+
+# se323
+msgid "[brand bag]"
+msgstr ""
+
+
+# se324
+# d167
+msgid "[clapperboard]"
+msgstr ""
+
+
+# se338
+msgid "[tea]"
+msgstr ""
+
+
+# se34b
+# wf08e
+msgid "[birthday cake"
+msgstr ""
+
+
+# se34c
+msgid "[railway lunch box]"
+msgstr ""
+
+
+# se422
+msgid "[good morning!]"
+msgstr ""
+
+
+# se425
+msgid "[holding hands]"
+msgstr ""
+
+
+# se428
+msgid "[two persons]"
+msgstr ""
+
+
+# se42b
+msgid "[american football]"
+msgstr ""
+
+
+# se42e
+# d034
+msgid "[RV car]"
+msgstr ""
+
+
+# se43a
+msgid "[school bag]"
+msgstr ""
+
+
+# se43d
+msgid "[bridal]"
+msgstr ""
+
+
+# se43e
+msgid "[wave comming]"
+msgstr ""
+
+
+# se444
+msgid "[rice ear]"
+msgstr ""
+
+
+# se447
+msgid "[wind blowing]"
+msgstr ""
+
+
+# se449
+msgid "[rising sun]"
+msgstr ""
+
+
+# se44a
+msgid "[setting sun]"
+msgstr ""
+
+
+# se44b
+msgid "[shooting star]"
+msgstr ""
+
+
+# se507
+msgid "[movie theater]"
+msgstr ""
+
+
+# se50a
+msgid "[Shibuya 109]"
+msgstr ""
+
+
+# se51b
+msgid "[safety first]"
+msgstr ""
+
+
+# se51d
+msgid "[Statue of Liberty]"
+msgstr ""
+
+
+# se51e
+msgid "[guard]"
+msgstr ""
+
+
+# se51f
+msgid "[flamenco]"
+msgstr ""
+
+
+# se524
+msgid "[hamster]"
+msgstr ""
+
+
+# se528
+msgid "[chimpanzee]"
+msgstr ""
+
+
+# se529
+msgid "[sheep]"
+msgstr ""
+
+
+# d008
+msgid "[drizzle]"
+msgstr ""
+
+
+# d021
+msgid "[sportswear]"
+msgstr ""
+
+
+# d051
+msgid "[coffee shop]"
+msgstr ""
+
+
+# d055
+msgid "[boutique]"
+msgstr ""
+
+
+# d060
+msgid "[dummy horse]"
+msgstr ""
+
+
+# d098
+msgid "[crescent]"
+msgstr ""
+
+
+# d105
+msgid "[phone to]"
+msgstr ""
+
+
+# d106
+msgid "[mail to]"
+msgstr ""
+
+
+# d108
+# d109
+msgid "[i]"
+msgstr ""
+
+
+# d110
+# wf063
+msgid "[mail]"
+msgstr ""
+
+
+# d111
+msgid "[presented by docoomo]"
+msgstr ""
+
+
+# d112
+msgid "[docomo point]"
+msgstr ""
+
+
+# d116
+msgid "[password]"
+msgstr ""
+
+
+# d118
+msgid "[CL]"
+msgstr ""
+
+
+# d151
+# wf099
+msgid "[flash]"
+msgstr ""
+
+
+# d163
+msgid "[clammy sweat]"
+msgstr ""
+
+
+# d168
+msgid "[sack]"
+msgstr ""
+
+
+# d169
+# wf061
+msgid "[pen]"
+msgstr ""
+
+
+# d170
+msgid "[human figure]"
+msgstr ""
+
+
+# d171
+msgid "[chair]"
+msgstr ""
+
+
+# d203
+msgid "[T-shirt]"
+msgstr ""
+
+
+# d204
+msgid "[purse]"
+msgstr ""
+
+
+# d205
+msgid "[makeup]"
+msgstr ""
+
+
+# d207
+msgid "[snow board]"
+msgstr ""
+
+
+# d209
+# wf093
+msgid "[door]"
+msgstr ""
+
+
+# d219
+msgid "[tea cup]"
+msgstr ""
+
+
+# d240
+msgid "[running person]"
+msgstr ""
+
+
+# d242
+# wf0b7
+msgid "[recycle]"
+msgstr ""
+
+
+# d247
+msgid "[pass]"
+msgstr ""
+
+
+# d252
+msgid "[wave]"
+msgstr ""
+
+
+# d254
+msgid "[clover]"
+msgstr ""
+
+
+# d259
+msgid "[germ]"
+msgstr ""
+
+
+# d261
+msgid "[cherry blossoms]"
+msgstr ""
+
+
+# d263
+msgid "[shortcake]"
+msgstr ""
+
+
+# d265
+msgid "[bowl]"
+msgstr ""
+
+
+# e253
+msgid "[first finger]"
+msgstr ""
+
+
+# e260
+msgid "[community]"
+msgstr ""
+
+
+# e261
+msgid "[hit]"
+msgstr ""
+
+
+# e266
+msgid "[coin]"
+msgstr ""
+
+
+# wf041
+msgid "[wall clock]"
+msgstr ""
+
+
+# wf043
+msgid "[mug]"
+msgstr ""
+
+
+# wf04b
+msgid "[tear]"
+msgstr ""
+
+
+# wf052
+msgid "[motorcycle]"
+msgstr ""
+
+
+# wf055
+msgid "[peace sign]"
+msgstr ""
+
+
+# wf056
+msgid "[dinner]"
+msgstr ""
+
+
+# wf057
+msgid "[glass]"
+msgstr ""
+
+
+# wf05a
+msgid "[bat]"
+msgstr ""
+
+
+# wf05b
+msgid "[ball]"
+msgstr ""
+
+
+# wf06b
+msgid "[record]"
+msgstr ""
+
+
+# wf078
+msgid "[tabaco]"
+msgstr ""
+
+
+# wf092
+# wf14d
+msgid "[EXIT]"
+msgstr ""
+
+
+# wf094
+msgid "[big buddy]"
+msgstr ""
+
+
+# wf095
+msgid "[PHS]"
+msgstr ""
+
+
+# wf0a7
+msgid "[convolution]"
+msgstr ""
+
+
+# wf0a9
+msgid "[sea]"
+msgstr ""
+
+
+# wf0b4
+msgid "[important]"
+msgstr ""
+
+
+# wf0d5
+msgid "[Ksitigarbha]"
+msgstr ""
+
+
+# wf0d6
+msgid "[McDonald]"
+msgstr ""
+
+
+# wf0d7
+msgid "[MOS BURGER]"
+msgstr ""
+
+
+# wf0d9
+msgid "[Lotteria]"
+msgstr ""
+
+
+# wf0db
+msgid "[Doutor Coffee]"
+msgstr ""
+
+
+# wf0e3
+msgid "[Bikkuri Donkey]"
+msgstr ""
+
+
+# wf0e7
+msgid "[LAWSON]"
+msgstr ""
+
+
+# wf0e9
+msgid "[am/pm]"
+msgstr ""
+
+
+# wf0f0
+msgid "[Seibu]"
+msgstr ""
+
+
+# wf0fc
+msgid "[Hachi-kou]"
+msgstr ""
+
+
+# wf148
+msgid "[UFJ Bank]"
+msgstr ""
+
